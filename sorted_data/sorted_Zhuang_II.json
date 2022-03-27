@@ -1,0 +1,7345 @@
+[
+    {
+        "pos": "noun",
+        "word": "ndoengfaex",
+        "sound": "/ɗoŋ˨˦ fai˦˨/",
+        "meaning": [
+            "forest"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "majlingzsuz",
+        "sound": "/ma˥ liŋ˧˩ θu˧˩/",
+        "meaning": [
+            "potato"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "diengzhaex",
+        "sound": "/tiːŋ˧˩ hai˦˨/",
+        "meaning": [
+            "toilet; bathroom; outhouse"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "dangz",
+        "sound": "/taːŋ˧˩/",
+        "meaning": [
+            "sugar",
+            "candy; sweets"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "dangz",
+        "sound": "/taːŋ˧˩/",
+        "meaning": [
+            "crotch (of trousers)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "dangz",
+        "sound": "/taːŋ˧˩/",
+        "meaning": [
+            "chamber (hollow space in an apparatus, such as a gun or a stove)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "dangz",
+        "sound": "/taːŋ˧˩/",
+        "meaning": [
+            "(education) class; course"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "dangz",
+        "sound": "/taːŋ˧˩/",
+        "meaning": [
+            "Classifier for the periods of time when a subject is taught: period; class",
+            "Classifier for animals: herd; flock",
+            "Classifier for sets of furniture or appliances: set; suite"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "manaez",
+        "sound": "/ma˨˦ nai˧˩/",
+        "meaning": [
+            "wolf"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "vahmbanj",
+        "sound": "/βa˧ ɓaːn˥/",
+        "meaning": [
+            "local dialect; vernacular (usually referring to Zhuang)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "mbanj",
+        "sound": "/ɓaːn˥/",
+        "meaning": [
+            "village"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "hawsingz guenjleix",
+        "sound": "/haɯ˨˦ θiŋ˧˩ kuːn˥ lei˦˨/",
+        "meaning": [
+            "chengguan"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "duix",
+        "sound": "/tuːi˦˨/",
+        "meaning": [
+            "bowl"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "duix",
+        "sound": "/tuːi˦˨/",
+        "meaning": [
+            "Amount contained in a bowl: bowl; bowlful"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "duix",
+        "sound": "/tuːi˦˨/",
+        "meaning": [
+            "to hang down; to droop down",
+            "(of plants) to wilt; to wither",
+            "(figuratively) to feel sad; to feel disappointed"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "linz",
+        "sound": "/lin˧˩/",
+        "meaning": [
+            "forest"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "makmaenj",
+        "sound": "/maːk˧˥ man˥/",
+        "meaning": [
+            "plum"
+        ]
+    },
+    {
+        "pos": "pron",
+        "word": "gwh",
+        "sound": "/kɯ˧/",
+        "meaning": [
+            "(dialectal) I; me"
+        ]
+    },
+    {
+        "pos": "pron",
+        "word": "ngoh",
+        "sound": "/ŋo˧/",
+        "meaning": [
+            "(dialectal) I; me"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "laep",
+        "sound": "/lap˥/",
+        "meaning": [
+            "dark"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "laep",
+        "sound": "/lap˥/",
+        "meaning": [
+            "darkness"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "laep",
+        "sound": "/lap˥/",
+        "meaning": [
+            "to close (the eyes)."
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gieng",
+        "sound": "/kiːŋ˨˦/",
+        "meaning": [
+            "to argue; to debate",
+            "to squabble over; to complain about"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gieng",
+        "sound": "/kiːŋ˨˦/",
+        "meaning": [
+            "(dialectal, including Wuming) ginger"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "guenjleix",
+        "sound": "/kuːn˥ lei˦˨/",
+        "meaning": [
+            "management"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "hawsingz",
+        "sound": "/haɯ˨˦ θiŋ˧˩/",
+        "meaning": [
+            "city"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "makyungz",
+        "sound": "/maːk˧˥ juŋ˧˩/",
+        "meaning": [
+            "tomato"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ndok",
+        "sound": "/ɗoːk˧˥/",
+        "meaning": [
+            "bone"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ndok",
+        "sound": "/ɗoːk˧˥/",
+        "meaning": [
+            "flower"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lwgdin",
+        "sound": "/lɯk˧ tin˨˦/",
+        "meaning": [
+            "toe"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gohyoz",
+        "sound": "/ko˧ jo˧˩/",
+        "meaning": [
+            "science"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "noucoengz",
+        "sound": "/nou˨˦ ɕoŋ˧˩/",
+        "meaning": [
+            "squirrel"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "mbang",
+        "sound": "/ɓaːŋ˨˦/",
+        "meaning": [
+            "thin (having a small distance between the two opposite surfaces)",
+            "sparse",
+            "(of clouds) thin; wispy",
+            "(of one's body) thin and weak; frail",
+            "(of power) weak; feeble"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "caux",
+        "sound": "/ɕaːu˦˨/",
+        "meaning": [
+            "to build (a nest)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "caux",
+        "sound": "/ɕaːu˦˨/",
+        "meaning": [
+            "to ignite; to light a fire"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "hwnj",
+        "sound": "/hɯn˥/",
+        "meaning": [
+            "to ascend; to go up; to get on",
+            "to set out; to take off; to be on one's way",
+            "to attend; to go to",
+            "to apply; to affix",
+            "to write down; to record; to enter",
+            "to build; to construct",
+            "(of plants) to grow",
+            "(of blisters, rashes, etc.) to develop; to appear",
+            "(of water) to rise",
+            "(of prices) to increase; to go up"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "daehbuh",
+        "sound": "/tai˧ pu˧/",
+        "meaning": [
+            "pocket"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Hocouh",
+        "sound": "/ho˧˥ ɕou˧/",
+        "meaning": [
+            "Hezhou (a prefecture-level city in Guangxi, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Liujcouh",
+        "sound": "/liu˥ ɕou˧/",
+        "meaning": [
+            "Liuzhou (a prefecture-level city in Guangxi, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Hozciz",
+        "sound": "/ho˧˩ ɕi˧˩/",
+        "meaning": [
+            "Hechi (a prefecture-level city in Guangxi, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Laizbinh",
+        "sound": "/laːi˧˩ pin˧/",
+        "meaning": [
+            "Laibin (a prefecture-level city in Guangxi, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Vuzcouh",
+        "sound": "/βu˧˩ ɕou˧/",
+        "meaning": [
+            "Wuzhou (a prefecture-level city in Guangxi, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Denhcinh",
+        "sound": "/teːn˧ ɕin˧/",
+        "meaning": [
+            "Tianjin (a direct-administered municipality and major city in northern China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Cungzcoj",
+        "sound": "/ɕuŋ˧˩ ɕo˥/",
+        "meaning": [
+            "Chongzuo (a prefecture-level city in Guangxi, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Gvangjdungh",
+        "sound": "/kʷaːŋ˥ tuŋ˧/",
+        "meaning": [
+            "Guangdong (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Yilinz",
+        "sound": "/ji˧˥ lin˧˩/",
+        "meaning": [
+            "Yulin (a prefecture-level city in Guangxi, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Fuzgen",
+        "sound": "/fu˧˩ keːn˧˥/",
+        "meaning": [
+            "Fujian (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Ginhcouh",
+        "sound": "/kin˧ ɕou˧/",
+        "meaning": [
+            "Qinzhou (a prefecture-level city in Guangxi, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Gveigangj",
+        "sound": "/kʷei˧˥ kaːŋ˥/",
+        "meaning": [
+            "Guigang (a prefecture-level city in Guangxi, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Bwzhaij",
+        "sound": "/pɯ˧˩ haːi˥/",
+        "meaning": [
+            "Beihai (a prefecture-level city in Guangxi, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Guengjdoeng",
+        "sound": "/kuːŋ˥ toŋ˨˦/",
+        "meaning": [
+            "Guangdong (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Cungzging",
+        "sound": "/ɕuŋ˧˩ kiŋ˧˥/",
+        "meaning": [
+            "Chongqing (a direct-administered municipality and city in western China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Fuzcouh",
+        "sound": "/fu˧˩ ɕou˧/",
+        "meaning": [
+            "Fuzhou (a prefecture-level city, the provincial capital of Fujian, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Sanghaij",
+        "sound": "/θaːŋ˧˥ haːi˥/",
+        "meaning": [
+            "Shanghai (a direct-administered municipality, a major port city in eastern China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Fangzcwngzgangj",
+        "sound": "/faːŋ˧˩ ɕɯŋ˧˩ kaːŋ˥/",
+        "meaning": [
+            "Fangchenggang (a prefecture-level city in Guangxi, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Hozbwz",
+        "sound": "/ho˧˩ pɯ˧˩/",
+        "meaning": [
+            "Hebei (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Gveicouh",
+        "sound": "/kʷei˧˥ ɕou˧/",
+        "meaning": [
+            "Guizhou (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Ganhsuz",
+        "sound": "/kaːn˧ θu˧˩/",
+        "meaning": [
+            "Gansu (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Gyanghsih",
+        "sound": "/kʲaːŋ˧ θi˧/",
+        "meaning": [
+            "Jiangxi (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Cwngcouh",
+        "sound": "/ɕɯŋ˧˥ ɕou˧/",
+        "meaning": [
+            "Zhengzhou (a prefecture-level city, the provincial capital of Henan, in central China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Haijgouj",
+        "sound": "/haːi˥ kou˥/",
+        "meaning": [
+            "Haikou (a prefecture-level city, the provincial capital of Hainan, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Neimungzguj",
+        "sound": "/nei˧˥ muŋ˧˩ ku˥/",
+        "meaning": [
+            "Inner Mongolia (an autonomous region of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Hoznanz",
+        "sound": "/ho˧˩ naːn˧˩/",
+        "meaning": [
+            "Henan (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Nanzgingh",
+        "sound": "/naːn˧˩ kiŋ˧/",
+        "meaning": [
+            "Nanjing (a major city, the provincial capital of Jiangsu, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Huznanz",
+        "sound": "/hu˧˩ naːn˧˩/",
+        "meaning": [
+            "Hunan (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Hoznamz",
+        "sound": "/ho˧˩ naːm˧˩/",
+        "meaning": [
+            "Henan (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Sinjyangz",
+        "sound": "/θin˥ jaːŋ˧˩/",
+        "meaning": [
+            "Shenyang (a prefecture-level city and subprovincial city, the provincial capital of Liaoning, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Hwzlungzgyangh",
+        "sound": "/hɯ˧˩ luŋ˧˩ kʲaːŋ˧/",
+        "meaning": [
+            "Heilongjiang (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Haijnanz",
+        "sound": "/haːi˥ naːn˧˩/",
+        "meaning": [
+            "Hainan (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Sihcang",
+        "sound": "/θi˧ ɕaːŋ˧˥/",
+        "meaning": [
+            "Tibet (an autonomous region of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Sanhsih",
+        "sound": "/θaːn˧ θi˧/",
+        "meaning": [
+            "Shanxi (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Cezgyangh",
+        "sound": "/ɕe˧˩ kʲaːŋ˧/",
+        "meaning": [
+            "Zhejiang (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Huhhozhaudwz",
+        "sound": "/hu˧ ho˧˩ haːu˨˦ tɯ˧˩/",
+        "meaning": [
+            "Hohhot (a prefecture-level city, the regional capital of Inner Mongolia, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Anhveih",
+        "sound": "/ʔaːn˧ βei˧/",
+        "meaning": [
+            "Anhui (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Gizlinz",
+        "sound": "/ki˧˩ lin˧˩/",
+        "meaning": [
+            "Jilin (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Cangzcunh",
+        "sound": "/ɕaːŋ˧˩ ɕun˧/",
+        "meaning": [
+            "Changchun (a prefecture-level city and subprovincial city, the provincial capital of Jilin, in northeastern China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Gunhmingz",
+        "sound": "/kun˧ miŋ˧˩/",
+        "meaning": [
+            "Kunming (a prefecture-level city, the provincial capital of Yunnan, in southwestern China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Sizgyahcangh",
+        "sound": "/θi˧˩ kʲa˧ ɕaːŋ˧/",
+        "meaning": [
+            "Shijiazhuang (a prefecture-level city, the provincial capital of Hebei, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Sanhdungh",
+        "sound": "/θaːn˧ tuŋ˧/",
+        "meaning": [
+            "Shandong (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Huznamz",
+        "sound": "/hu˧˩ naːm˧˩/",
+        "meaning": [
+            "Hunan (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Hozfeiz",
+        "sound": "/ho˧˩ fei˧˩/",
+        "meaning": [
+            "Hefei (a prefecture-level city, the provincial capital of Anhui, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Swconh",
+        "sound": "/θɯ˧˥ ɕoːn˧/",
+        "meaning": [
+            "Sichuan (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Lanzcouh",
+        "sound": "/laːn˧˩ ɕou˧/",
+        "meaning": [
+            "Lanzhou (a prefecture-level city, the provincial capital of Gansu, in northwestern China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Vujhan",
+        "sound": "/βu˥ haːn˨˦/",
+        "meaning": [
+            "Wuhan (a subprovincial city, the provincial capital of Hubei, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Yinznanz",
+        "sound": "/jin˧˩ naːn˧˩/",
+        "meaning": [
+            "Yunnan (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Sanjsih",
+        "sound": "/θaːn˥ θi˧/",
+        "meaning": [
+            "Shaanxi (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Gyanghsuh",
+        "sound": "/kʲaːŋ˧ θu˧/",
+        "meaning": [
+            "Jiangsu (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Gveiyangz",
+        "sound": "/kʷei˧˥ jaːŋ˧˩/",
+        "meaning": [
+            "Guiyang (a prefecture-level city, the provincial capital of Guizhou, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Daiyenz",
+        "sound": "/taːi˧˥ jeːn˧˩/",
+        "meaning": [
+            "Taiyuan (a prefecture-level city, the provincial capital of Shanxi, in northern China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Cwngzduh",
+        "sound": "/ɕɯŋ˧˩ tu˧/",
+        "meaning": [
+            "Chengdu (a subprovincial city, the provincial capital of Sichuan, in southwestern China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Cinghhaij",
+        "sound": "/ɕiŋ˧ haːi˥/",
+        "meaning": [
+            "Qinghai (a province of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Hah'wjbinh",
+        "sound": "/ha˧ ʔɯ˥ pin˧/",
+        "meaning": [
+            "Harbin (a prefecture-level city and subprovincial city, the provincial capital of Heilongjiang, in northeastern China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Sihningz",
+        "sound": "/θi˧ niŋ˧˩/",
+        "meaning": [
+            "Xining (a prefecture-level city, the provincial capital of Qinghai, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Vuhlujmuzciz",
+        "sound": "/βu˧ lu˥ mu˧˩ ɕi˧˩/",
+        "meaning": [
+            "Ürümqi (a prefecture-level city, the capital of Xinjiang, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Daizbwz",
+        "sound": "/taːi˧˩ pɯ˧˩/",
+        "meaning": [
+            "Taipei (a special municipality, the capital city of Taiwan)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Lahsaz",
+        "sound": "/la˧ θa˧˩/",
+        "meaning": [
+            "Lhasa (a prefecture-level city, the regional capital of Tibet, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Hangzcouh",
+        "sound": "/haːŋ˧˩ ɕou˧/",
+        "meaning": [
+            "Hangzhou (a prefecture-level city, the provincial capital of Zhejiang, in eastern China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Sinhgyangh",
+        "sound": "/θin˧ kʲaːŋ˧/",
+        "meaning": [
+            "Xinjiang (an autonomous region of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Yinzconh",
+        "sound": "/jin˧˩ ɕoːn˧/",
+        "meaning": [
+            "Yinchuan (a prefecture-level city, the regional capital of Ningxia, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Cangzsah",
+        "sound": "/ɕaːŋ˧˩ θa˧/",
+        "meaning": [
+            "Changsha (a prefecture-level city, the provincial capital of Hunan, in south-central China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Namzging",
+        "sound": "/naːm˧˩ kiŋ˨˦/",
+        "meaning": [
+            "Nanjing (a major city, the provincial capital of Jiangsu, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Ningzya",
+        "sound": "/niŋ˧˩ ja˧˥/",
+        "meaning": [
+            "Ningxia (an autonomous region of China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Sih'anh",
+        "sound": "/θi˧ ʔaːn˧/",
+        "meaning": [
+            "Xi'an (a subprovincial city, the provincial capital of Shaanxi, in central China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Nanzcangh",
+        "sound": "/naːn˧˩ ɕaːŋ˧/",
+        "meaning": [
+            "Nanchang (a prefecture-level city, the provincial capital of Jiangxi, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Cinanz",
+        "sound": "/ɕi˧˥ naːn˧˩/",
+        "meaning": [
+            "Jinan (a prefecture-level city and subprovincial city, the provincial capital of Shangdong, in eastern China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Huzbwz",
+        "sound": "/hu˧˩ pɯ˧˩/",
+        "meaning": [
+            "Hubei (a province of China)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lwgfwngzyinx",
+        "sound": "/lɯk˧ fɯŋ˧˩ jin˦˨/",
+        "meaning": [
+            "index finger"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "fwngzyinx",
+        "sound": "/fɯŋ˧˩ jin˦˨/",
+        "meaning": [
+            "index finger"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lwgfwngzgyang",
+        "sound": "/lɯk˧ fɯŋ˧˩ kʲaːŋ˨˦/",
+        "meaning": [
+            "middle finger"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gahfeih",
+        "sound": "/ka˧ fei˧/",
+        "meaning": [
+            "coffee"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "meiq",
+        "sound": "/mei˧˥/",
+        "meaning": [
+            "vinegar"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "doenghyiengh",
+        "sound": "/toŋ˧ jiːŋ˧/",
+        "meaning": [
+            "thing; item"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "rongh",
+        "sound": "/ɣoːŋ˧/",
+        "meaning": [
+            "light; light ray"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "rongh",
+        "sound": "/ɣoːŋ˧/",
+        "meaning": [
+            "bright; luminous",
+            "(of the sky) bright; clear; sunny",
+            "(of the colour) bright"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "rongh",
+        "sound": "/ɣoːŋ˧/",
+        "meaning": [
+            "to glow; to shine",
+            "to shine on; to illuminate"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "rongh",
+        "sound": "/ɣoːŋ˧/",
+        "meaning": [
+            "furrow"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "rongh",
+        "sound": "/ɣoːŋ˧/",
+        "meaning": [
+            "row (of crops in a field)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ciengqyouz",
+        "sound": "/ɕiːŋ˧˥ jou˧˩/",
+        "meaning": [
+            "soy sauce"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yiemzsih",
+        "sound": "/jiːm˧˩ θi˧/",
+        "meaning": [
+            "coriander"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roeggyaeujmeuz",
+        "sound": "/ɣok˧ kʲau˥ meːu˧˩/",
+        "meaning": [
+            "owl"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "daeuhfouh",
+        "sound": "/tau˧ fou˧/",
+        "meaning": [
+            "tofu"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "rumzhwx",
+        "sound": "/ɣum˧˩ hɯ˦˨/",
+        "meaning": [
+            "typhoon"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "daemz",
+        "sound": "/tam˧˩/",
+        "meaning": [
+            "pond; pool"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gingqda",
+        "sound": "/kiŋ˧˥ ta˨˦/",
+        "meaning": [
+            "glasses; eyeglasses; spectacles"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Mungzguj",
+        "sound": "/muŋ˧˩ ku˥/",
+        "meaning": [
+            "Mongolia (a country in Asia)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Meijgoz",
+        "sound": "/mei˥ ko˧˩/",
+        "meaning": [
+            "the United States (a country in North America)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gaeng",
+        "sound": "/kaŋ˨˦/",
+        "meaning": [
+            "ape"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "ndaej",
+        "sound": "/ɗai˥/",
+        "meaning": [
+            "to get; to obtain; to receive",
+            "to reach; to be (a certain age)",
+            "(auxiliary) may; to have permission",
+            "(auxiliary) can; to be capable of"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "yaeuj",
+        "sound": "/jau˥/",
+        "meaning": [
+            "to carry; to hold; to lift"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "duzmbangq",
+        "sound": "/tu˧˩ ɓaːŋ˧˥/",
+        "meaning": [
+            "flying squirrel"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cenh",
+        "sound": "/ɕeːn˧/",
+        "meaning": [
+            "porcupine"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Majlaizsihya",
+        "sound": "/ma˥ laːi˧˩ θi˧ ja˧˥/",
+        "meaning": [
+            "Malaysia (a country in Asia)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Gyahnazda",
+        "sound": "/kʲa˧ na˧˩ ta˧˥/",
+        "meaning": [
+            "Canada (a country in North America)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Yinghgoz",
+        "sound": "/jiŋ˧ ko˧˩/",
+        "meaning": [
+            "United Kingdom (a country in Europe)"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "gyoengq",
+        "sound": "/kʲoŋ˧˥/",
+        "meaning": [
+            "group of (people); crowd of (people); flock of (animals); herd of (animals)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "maxloeg",
+        "sound": "/ma˦˨ lok˧/",
+        "meaning": [
+            "deer"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gaeqhangh",
+        "sound": "/kai˧˥ haːŋ˧/",
+        "meaning": [
+            "pullet; hen that has not yet laid eggs"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "lumj",
+        "sound": "/lum˥/",
+        "meaning": [
+            "to look like; to resemble; to seem like"
+        ]
+    },
+    {
+        "pos": "adv",
+        "word": "lumj",
+        "sound": "/lum˥/",
+        "meaning": [
+            "it looks like ...; it seems like ...; it is as if ..."
+        ]
+    },
+    {
+        "pos": "conj",
+        "word": "lumj",
+        "sound": "/lum˥/",
+        "meaning": [
+            "for example; such as; like"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roegenq",
+        "sound": "/ɣok˧ ʔeːn˧˥/",
+        "meaning": [
+            "swallow (bird)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gyaez",
+        "sound": "/kʲai˧˩/",
+        "meaning": [
+            "to love",
+            "to like; to be fond of",
+            "to miss; to think of",
+            "to cherish; to treasure",
+            "to tend to; to be prone to"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "fatcaiz",
+        "sound": "/faːt˧˥ ɕaːi˧˩/",
+        "meaning": [
+            "to make a fortune"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "nyaen",
+        "sound": "/ɲan˨˦/",
+        "meaning": [
+            "raccoon dog",
+            "wild animal"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "hawj",
+        "sound": "/haɯ˥/",
+        "meaning": [
+            "to give",
+            "to allow; to let"
+        ]
+    },
+    {
+        "pos": "prep",
+        "word": "hawj",
+        "sound": "/haɯ˥/",
+        "meaning": [
+            "to; for (indicates the recipient of an action)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Daigoz",
+        "sound": "/taːi˨˦ ko˧˩/",
+        "meaning": [
+            "Thailand (a country in Asia)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "swngj",
+        "sound": "/θɯŋ˥/",
+        "meaning": [
+            "province"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Laujvoh",
+        "sound": "/laːu˥ βo˧/",
+        "meaning": [
+            "Laos (a country in Asia)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gawq",
+        "sound": "/kaɯ˧˥/",
+        "meaning": [
+            "saw (tool)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gawq",
+        "sound": "/kaɯ˧˥/",
+        "meaning": [
+            "to saw; to cut"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "gawq",
+        "sound": "/kaɯ˧˥/",
+        "meaning": [
+            "(dialectal) sentence"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "vamaedlaeh",
+        "sound": "/βa˨˦ mat˧ lai˧/",
+        "meaning": [
+            "jasmine flower"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Sinhgyahboh",
+        "sound": "/θin˧ kʲa˧ po˧/",
+        "meaning": [
+            "Singapore (an island and city-state in Southeast Asia)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "dungzci",
+        "sound": "/tuŋ˧˩ ɕi˧˥/",
+        "meaning": [
+            "(communism) comrade"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "gyaq",
+        "sound": "/kʲa˧˥/",
+        "meaning": [
+            "Classifier for vehicles, such as cars, bicycles, airplanes and tanks."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gyaq",
+        "sound": "/kʲa˧˥/",
+        "meaning": [
+            "skeleton; bone structure",
+            "airs; arrogance"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gyaq",
+        "sound": "/kʲa˧˥/",
+        "meaning": [
+            "price"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gyaq",
+        "sound": "/kʲa˧˥/",
+        "meaning": [
+            "to ask the price"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Lungzanh",
+        "sound": "/luŋ˧˩ ʔaːn˧/",
+        "meaning": [
+            "Long'an (a county of Nanning, Guangxi, China)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "riunyumj",
+        "sound": "/ɣiu˨˦ ɲum˥/",
+        "meaning": [
+            "to smile"
+        ]
+    },
+    {
+        "pos": "pron",
+        "word": "gijmaz",
+        "sound": "/ki˥ ma˧˩/",
+        "meaning": [
+            "(interrogative) what"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "banhfap",
+        "sound": "/paːn˧ faːp˧˥/",
+        "meaning": [
+            "means; solution; way (of doing something)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "baujciz",
+        "sound": "/paːu˥ ɕi˧˩/",
+        "meaning": [
+            "to keep; to maintain; to preserve"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "siengj",
+        "sound": "/θiːŋ˥/",
+        "meaning": [
+            "to consider; to ponder; to think about",
+            "to think; to imagine",
+            "to want to",
+            "to miss; to remember"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "naeuz",
+        "sound": "/nau˧˩/",
+        "meaning": [
+            "to say; to talk; to speak",
+            "to tell; to inform",
+            "to exhort; to rebuke"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "hangh",
+        "sound": "/haːŋ˧/",
+        "meaning": [
+            "(of a chicken hen) not having yet laid eggs; being a pullet"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "hangh",
+        "sound": "/haːŋ˧/",
+        "meaning": [
+            "Classifier for pullets (young hens that have not yet laid eggs)."
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "hangh",
+        "sound": "/haːŋ˧/",
+        "meaning": [
+            "Classifier for items, tasks, or points in a list."
+        ]
+    },
+    {
+        "pos": "conj",
+        "word": "danghnaeuz",
+        "sound": "/taːŋ˧ nau˧˩/",
+        "meaning": [
+            "if"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "yawj",
+        "sound": "/jaɯ˥/",
+        "meaning": [
+            "to see"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "daegsaek",
+        "sound": "/tak˧ θak˥/",
+        "meaning": [
+            "characteristic"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Yeznanz",
+        "sound": "/je˧˩ naːn˧˩/",
+        "meaning": [
+            "Vietnam (a country in Asia)"
+        ]
+    },
+    {
+        "pos": "pron",
+        "word": "geijlai",
+        "sound": "/kei˥ laːi˨˦/",
+        "meaning": [
+            "(interrogative) how many; how much"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "vuenyungz",
+        "sound": "/βuːn˨˦ juŋ˧˩/",
+        "meaning": [
+            "happy; blessed; fortunate"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "naemj",
+        "sound": "/nam˥/",
+        "meaning": [
+            "to think about"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "makbug",
+        "sound": "/maːk˧˥ puk˧/",
+        "meaning": [
+            "pomelo; shaddock (fruit)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gunghozgoz",
+        "sound": "/kuŋ˧˥ ho˧˩ ko˧˩/",
+        "meaning": [
+            "republic (country)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Cunghvaz Yinzminz Gunghozgoz",
+        "sound": "/ɕuŋ˧ βa˧˩ jin˧˩ min˧˩ kuŋ˧˥ ho˧˩ ko˧˩/",
+        "meaning": [
+            "People's Republic of China (a country in Asia)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yinzminzbi",
+        "sound": "/jin˧˩ min˧˩ pi˧˥/",
+        "meaning": [
+            "renminbi (currency of the People's Republic of China)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cunghyoz",
+        "sound": "/ɕuŋ˧ jo˧˩/",
+        "meaning": [
+            "secondary school (including both junior high school and senior high school)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "siujyoz",
+        "sound": "/θiu˥ jo˧˩/",
+        "meaning": [
+            "primary school"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "hagdangz",
+        "sound": "/haːk˧ taːŋ˧˩/",
+        "meaning": [
+            "school (educational institution)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yozyau",
+        "sound": "/jo˧˩ jaːu˧˥/",
+        "meaning": [
+            "school (educational institution)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "daihhag",
+        "sound": "/taːi˧ haːk˧/",
+        "meaning": [
+            "university"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cibuh",
+        "sound": "/ɕi˨˦ pu˧/",
+        "meaning": [
+            "sewing machine"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ndaij",
+        "sound": "/ɗaːi˥/",
+        "meaning": [
+            "ramie (plant and fibre)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "mbinj",
+        "sound": "/ɓin˥/",
+        "meaning": [
+            "straw mat; reed mat"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "nyaengq",
+        "sound": "/ɲaŋ˧˥/",
+        "meaning": [
+            "weedy; full of weeds",
+            "(of one's hair) messy; unkempt; dishevelled"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "nyaengq",
+        "sound": "/ɲaŋ˧˥/",
+        "meaning": [
+            "(dialectal) weeds"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "goemz",
+        "sound": "/kom˧˩/",
+        "meaning": [
+            "(dialectal) to lower; to bend (one's head)"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "goemz",
+        "sound": "/kom˧˩/",
+        "meaning": [
+            "(dialectal, of senses) acute; sensitive"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "goemz",
+        "sound": "/kom˧˩/",
+        "meaning": [
+            "(dialectal) to feel for (something) under water"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "ndaep",
+        "sound": "/ɗap˥/",
+        "meaning": [
+            "to extinguish; to put out"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "moq",
+        "sound": "/mo˧˥/",
+        "meaning": [
+            "new",
+            "(of food) fresh",
+            "just married or just about to be married",
+            "new; renewed; improved",
+            "new; unfamiliar"
+        ]
+    },
+    {
+        "pos": "adv",
+        "word": "moq",
+        "sound": "/mo˧˥/",
+        "meaning": [
+            "anew; over again"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "fangz",
+        "sound": "/faːŋ˧˩/",
+        "meaning": [
+            "ghost; spirit",
+            "brat; rascal",
+            "dirty trick"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "fangz",
+        "sound": "/faːŋ˧˩/",
+        "meaning": [
+            "devilish; mischievous"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "fangz",
+        "sound": "/faːŋ˧˩/",
+        "meaning": [
+            "to be blind"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ngoenzhong",
+        "sound": "/ŋon˧˩ hoːŋ˨˦/",
+        "meaning": [
+            "workday; working day."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ngoenzgoeng",
+        "sound": "/ŋon˧˩ koŋ˨˦/",
+        "meaning": [
+            "workday; working day."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "goeng",
+        "sound": "/koŋ˨˦/",
+        "meaning": [
+            "husband",
+            "paternal grandfather",
+            "adult man (in general)",
+            "(dialectal) ancestors; forefathers"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "goeng",
+        "sound": "/koŋ˨˦/",
+        "meaning": [
+            "Used for adult men."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "goeng",
+        "sound": "/koŋ˨˦/",
+        "meaning": [
+            "work; labour",
+            "man-day"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "goeng",
+        "sound": "/koŋ˨˦/",
+        "meaning": [
+            "contribution; merit"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gaemxgienz",
+        "sound": "/kam˦˨ kiːn˧˩/",
+        "meaning": [
+            "fist"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "gaemxgienz",
+        "sound": "/kam˦˨ kiːn˧˩/",
+        "meaning": [
+            "blow of a fist; punch"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gienz",
+        "sound": "/kiːn˧˩/",
+        "meaning": [
+            "fist",
+            "boxing"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "gienz",
+        "sound": "/kiːn˧˩/",
+        "meaning": [
+            "blow of a fist; punch"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gienz",
+        "sound": "/kiːn˧˩/",
+        "meaning": [
+            "authority; power",
+            "right; prerogative"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "bujdunghva",
+        "sound": "/pu˥ tuŋ˧ βa˨˦/",
+        "meaning": [
+            "Putonghua (standard Chinese in China)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "Sawgun",
+        "sound": "/θaɯ˨˦ kun˨˦/",
+        "meaning": [
+            "Chinese character; Hanzi"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "nuengx",
+        "sound": "/nuːŋ˦˨/",
+        "meaning": [
+            "younger sibling",
+            "someone younger than oneself"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "nuengx",
+        "sound": "/nuːŋ˦˨/",
+        "meaning": [
+            "young"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gyau",
+        "sound": "/kʲaːu˨˦/",
+        "meaning": [
+            "to hand over (an object)",
+            "to pay",
+            "to hand over; to pass on (a matter)",
+            "to make (friends)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gyau",
+        "sound": "/kʲaːu˨˦/",
+        "meaning": [
+            "(in compounds) spider"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "dinghmeg",
+        "sound": "/tiŋ˧ meːk˧/",
+        "meaning": [
+            "(traditional Chinese medicine) to take someone's pulse"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gaemmeg",
+        "sound": "/kam˨˦ meːk˧/",
+        "meaning": [
+            "to take someone's pulse; to feel someone's pulse"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "loxlez",
+        "sound": "/lo˦˨ le˧˩/",
+        "meaning": [
+            "(music) suona"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "loq",
+        "sound": "/lo˧˥/",
+        "meaning": [
+            "to dream"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "loq",
+        "sound": "/lo˧˥/",
+        "meaning": [
+            "dream",
+            "somniloquy; words said in sleep"
+        ]
+    },
+    {
+        "pos": "adv",
+        "word": "loq",
+        "sound": "/lo˧˥/",
+        "meaning": [
+            "slightly; a bit; a little"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "diegyouq",
+        "sound": "/tiːk˧ jou˧˥/",
+        "meaning": [
+            "address"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "nienz",
+        "sound": "/niːn˧˩/",
+        "meaning": [
+            "year"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "singqmingz",
+        "sound": "/θiŋ˧˥ miŋ˧˩/",
+        "meaning": [
+            "full name"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gunghminz",
+        "sound": "/kuŋ˧ min˧˩/",
+        "meaning": [
+            "citizen"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gihgvanh",
+        "sound": "/ki˧ kʷaːn˧/",
+        "meaning": [
+            "government organization; institution; institute; organ; agency; body"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "geizhanh",
+        "sound": "/kei˧˩ haːn˧/",
+        "meaning": [
+            "deadline"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "minzcuz",
+        "sound": "/min˧˩ ɕu˧˩/",
+        "meaning": [
+            "ethnic group"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "nyied",
+        "sound": "/ɲiːt˧/",
+        "meaning": [
+            "moon",
+            "month"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "mizyauq",
+        "sound": "/mi˧˩ jaːu˧˥/",
+        "meaning": [
+            "effective; valid"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "bengcag",
+        "sound": "/peːŋ˨˦ ɕaːk˧/",
+        "meaning": [
+            "to play tug of war"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "dahmbwn",
+        "sound": "/ta˧ ɓɯn˨˦/",
+        "meaning": [
+            "(astronomy) Milky Way"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "guk",
+        "sound": "/kuk˥/",
+        "meaning": [
+            "tiger"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "biuj",
+        "sound": "/piu˥/",
+        "meaning": [
+            "to cover with paper; to wallpaper"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "biuj",
+        "sound": "/piu˥/",
+        "meaning": [
+            "scar"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "biuj",
+        "sound": "/piu˥/",
+        "meaning": [
+            "form; table",
+            "cousin (child of mother's sibling or father's sister)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "biuj",
+        "sound": "/piu˥/",
+        "meaning": [
+            "watch"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "byaeklinzgaeq",
+        "sound": "/pʲak˥ lin˧˩ kai˧˥/",
+        "meaning": [
+            "dandelion (as a vegetable)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "golinzgaeq",
+        "sound": "/ko˨˦ lin˧˩ kai˧˥/",
+        "meaning": [
+            "dandelion (a plant in the genus Taraxacum)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "vunzguhnaz",
+        "sound": "/βun˧˩ ku˧ na˧˩/",
+        "meaning": [
+            "farmer"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "fuengbienh",
+        "sound": "/fuːŋ˨˦ piːn˧/",
+        "meaning": [
+            "convenient"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "bouxguhnaz",
+        "sound": "/pou˦˨ ku˧ na˧˩/",
+        "meaning": [
+            "farmer"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "saedyienh",
+        "sound": "/θat˧ jiːn˧/",
+        "meaning": [
+            "to realize; to achieve; to actualize"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "nungzminz",
+        "sound": "/nuŋ˧˩ min˧˩/",
+        "meaning": [
+            "farmer; peasant"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "loqsiengj",
+        "sound": "/lo˧˥ θiːŋ˥/",
+        "meaning": [
+            "dream; hope; wish"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cwngciyoz",
+        "sound": "/ɕɯŋ˧˥ ɕi˧˥ jo˧˩/",
+        "meaning": [
+            "political science"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lizsij",
+        "sound": "/li˧˩ θi˥/",
+        "meaning": [
+            "history (the study of past events)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Lenzhozgoz",
+        "sound": "/leːn˧˩ ho˧˩ ko˧˩/",
+        "meaning": [
+            "United Nations"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "sevei",
+        "sound": "/θe˧˥ βei˧˥/",
+        "meaning": [
+            "society"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cwngci",
+        "sound": "/ɕɯŋ˧˥ ɕi˧˥/",
+        "meaning": [
+            "politics"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "cwngci",
+        "sound": "/ɕɯŋ˧˥ ɕi˧˥/",
+        "meaning": [
+            "political"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "swyouzcujyi",
+        "sound": "/θɯ˧˥ jou˧˩ ɕu˥ ji˧˥/",
+        "meaning": [
+            "liberalism"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Bwzgingh",
+        "sound": "/pɯ˧˩ kiŋ˧/",
+        "meaning": [
+            "Beijing (a municipality, the capital city of China)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "fouz",
+        "sound": "/fou˧˩/",
+        "meaning": [
+            "to float"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "fouz",
+        "sound": "/fou˧˩/",
+        "meaning": [
+            "uneasy; unsettled; apprehensive",
+            "weak; feeble; unsteady",
+            "frivolous; whimsical; impulsive",
+            "boastful; vainglorious"
+        ]
+    },
+    {
+        "pos": "adv",
+        "word": "fouz",
+        "sound": "/fou˧˩/",
+        "meaning": [
+            "not at all; not a bit",
+            "(used before each of a pair of words) without ... or ...; neither ... nor ..."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "fouz",
+        "sound": "/fou˧˩/",
+        "meaning": [
+            "incantation"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lwgfwngzcaemj",
+        "sound": "/lɯk˧ fɯŋ˧˩ ɕam˥/",
+        "meaning": [
+            "ring finger"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lwgfwngzcod",
+        "sound": "/lɯk˧ fɯŋ˧˩ ɕoːt˧/",
+        "meaning": [
+            "little finger"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ndo",
+        "sound": "/ɗo˨˦/",
+        "meaning": [
+            "bump (swelling on the skin)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "mehfwngz",
+        "sound": "/me˧ fɯŋ˧˩/",
+        "meaning": [
+            "thumb"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yangzcoeng",
+        "sound": "/jaːŋ˧˩ ɕoŋ˨˦/",
+        "meaning": [
+            "onion"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "daengloengz",
+        "sound": "/taŋ˨˦ loŋ˧˩/",
+        "meaning": [
+            "lantern"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cingjsoq",
+        "sound": "/ɕiŋ˥ θo˧˥/",
+        "meaning": [
+            "integer"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "maenzgat",
+        "sound": "/man˧˩ kaːt˧˥/",
+        "meaning": [
+            "yam bean; jicama (Pachyrhizus erosus, plant or root)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yaem",
+        "sound": "/jam˨˦/",
+        "meaning": [
+            "sound; noise",
+            "voice"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "yaem",
+        "sound": "/jam˨˦/",
+        "meaning": [
+            "to give the phonetic notation of a word or character; to transcribe"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yaem",
+        "sound": "/jam˨˦/",
+        "meaning": [
+            "(philosophy) yin",
+            "netherworld; hell"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "yaem",
+        "sound": "/jam˨˦/",
+        "meaning": [
+            "engraved; incised; in intaglio",
+            "treacherous; deceitful",
+            "gloomy; ghastly"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "yaem",
+        "sound": "/jam˨˦/",
+        "meaning": [
+            "to hide; to conceal (a matter)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "caekhaex",
+        "sound": "/ɕak˥ hai˦˨/",
+        "meaning": [
+            "buttocks; butt"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Yidali",
+        "sound": "/ji˧˥ ta˧˥ li˧˥/",
+        "meaning": [
+            "Italy (a country in Europe)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Dwzgoz",
+        "sound": "/tɯ˧˩ ko˧˩/",
+        "meaning": [
+            "Germany (a country in Europe)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Sihbanhyaz",
+        "sound": "/θi˧ paːn˧ ja˧˩/",
+        "meaning": [
+            "Spain (a country in Europe)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Cauzsenh",
+        "sound": "/ɕaːu˧˩ θeːn˧/",
+        "meaning": [
+            "North Korea (a country in Asia)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Feihcouh",
+        "sound": "/fei˧ ɕou˧/",
+        "meaning": [
+            "Africa (a continent)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Buzdauzyaz",
+        "sound": "/pu˧˩ taːu˧˩ ja˧˩/",
+        "meaning": [
+            "Portugal (a country in Europe)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Audaliya",
+        "sound": "/ʔaːu˧˥ ta˧˥ li˧˥ ja˧˥/",
+        "meaning": [
+            "Australia (a country in Oceania)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lenzbangh",
+        "sound": "/leːn˧˩ paːŋ˧/",
+        "meaning": [
+            "federation"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Ngozlozswh",
+        "sound": "/ŋo˧˩ lo˧˩ θɯ˧/",
+        "meaning": [
+            "Russia (a country in Europe and Asia)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Yizbwnj",
+        "sound": "/ji˧˩ pɯn˥/",
+        "meaning": [
+            "Japan (a country in Asia)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Yindu",
+        "sound": "/jin˧˥ tu˧˥/",
+        "meaning": [
+            "India (a country in Asia)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Hanzgoz",
+        "sound": "/haːn˧˩ ko˧˩/",
+        "meaning": [
+            "Korea (a country in Asia)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Yacouh",
+        "sound": "/ja˧˥ ɕou˧/",
+        "meaning": [
+            "Asia (a continent)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "fatseng",
+        "sound": "/faːt˧˥ θeːŋ˨˦/",
+        "meaning": [
+            "to occur; to happen"
+        ]
+    },
+    {
+        "pos": "adv",
+        "word": "mboengqneix",
+        "sound": "/ɓoŋ˧˥ nei˦˨/",
+        "meaning": [
+            "recently"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "veijyenzvei",
+        "sound": "/βei˥ jeːn˧˩ βei˧˥/",
+        "meaning": [
+            "committee"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Lozcwngz",
+        "sound": "/lo˧˩ ɕɯŋ˧˩/",
+        "meaning": [
+            "Luocheng (a county of Hechi, Guangxi, China)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "daxmeh",
+        "sound": "/ta˦˨ me˧/",
+        "meaning": [
+            "mother"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Aucouh",
+        "sound": "/ʔaːu˧˥ ɕou˧/",
+        "meaning": [
+            "Australia (a country in Oceania)"
+        ]
+    },
+    {
+        "pos": "prefix",
+        "word": "dax-",
+        "sound": "/ta˦˨/",
+        "meaning": [
+            "Used in kinship terms referring to an older generation."
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "lienzhab",
+        "sound": "/liːn˧˩ haːp˧/",
+        "meaning": [
+            "to unite"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "lienzhab",
+        "sound": "/liːn˧˩ haːp˧/",
+        "meaning": [
+            "joint; combined"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ngux nyied co'ngux",
+        "sound": "/ŋu˦˨ ɲiːt˧ ɕo˨˦ ŋu˦˨/",
+        "meaning": [
+            "Dragon Boat Festival"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "bet nyied cibngux",
+        "sound": "/peːt˧˥ ɲiːt˧ ɕip˧ ŋu˦˨/",
+        "meaning": [
+            "Mid-Autumn Festival"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cihsaw",
+        "sound": "/ɕi˧ θaɯ˨˦/",
+        "meaning": [
+            "written character"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cunhyenz",
+        "sound": "/ɕun˧ jeːn˧˩/",
+        "meaning": [
+            "dignity"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "Sawcuengh",
+        "sound": "/θaɯ˨˦ ɕuːŋ˧/",
+        "meaning": [
+            "written Zhuang; Zhuang script"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "cih",
+        "sound": "/ɕi˧/",
+        "meaning": [
+            "Used for written characters or words."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "giceh",
+        "sound": "/ki˧˥ ɕe˧/",
+        "meaning": [
+            "automobile; car"
+        ]
+    },
+    {
+        "pos": "adv",
+        "word": "gaej",
+        "sound": "/kai˥/",
+        "meaning": [
+            "do not; don't (imperative)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "vangzgoz",
+        "sound": "/βaːŋ˧˩ ko˧˩/",
+        "meaning": [
+            "kingdom (country)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ndaeng",
+        "sound": "/ɗaŋ˨˦/",
+        "meaning": [
+            "nose"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "congh",
+        "sound": "/ɕoːŋ˧/",
+        "meaning": [
+            "hole; opening"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "congh",
+        "sound": "/ɕoːŋ˧/",
+        "meaning": [
+            "Used for holes and openings."
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Sinhsihlanz",
+        "sound": "/θin˧ θi˧ laːn˧˩/",
+        "meaning": [
+            "New Zealand (a country in Oceania)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yijyenz",
+        "sound": "/ji˥ jeːn˧˩/",
+        "meaning": [
+            "language"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "baengzyoux",
+        "sound": "/paŋ˧˩ jou˦˨/",
+        "meaning": [
+            "friend"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "hucau",
+        "sound": "/hu˨˦ ɕaːu˨˦/",
+        "meaning": [
+            "passport"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Bahgihswhdanj",
+        "sound": "/pa˧ ki˧ θɯ˧ taːn˥/",
+        "meaning": [
+            "Pakistan (a country in Asia)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cwngfuj",
+        "sound": "/ɕɯŋ˨˦ fu˥/",
+        "meaning": [
+            "government"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Munggyahlahgoz",
+        "sound": "/muŋ˧˥ kʲa˧ la˧ ko˧˩/",
+        "meaning": [
+            "Bangladesh (a country in Asia)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Menjden",
+        "sound": "/meːn˥ teːn˧˥/",
+        "meaning": [
+            "Myanmar (a country in Asia)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Yunghyazli",
+        "sound": "/juŋ˧ ja˧˩ li˨˦/",
+        "meaning": [
+            "Hungary (a country in Europe)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Gwzlujgizya",
+        "sound": "/kɯ˧˩ lu˥ ki˧˩ ja˨˦/",
+        "meaning": [
+            "Georgia (a country in Europe)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Lozmajnizya",
+        "sound": "/lo˧˩ ma˥ ni˧˩ ja˨˦/",
+        "meaning": [
+            "Romania (a country in Europe)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Yameijnizya",
+        "sound": "/ja˨˦ mei˥ ni˧˩ ja˨˦/",
+        "meaning": [
+            "Armenia (a country in Europe and Asia)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "ruenz",
+        "sound": "/ɣuːn˧˩/",
+        "meaning": [
+            "to crawl"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lauz",
+        "sound": "/laːu˧˩/",
+        "meaning": [
+            "animal fat",
+            "lard"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "lauz",
+        "sound": "/laːu˧˩/",
+        "meaning": [
+            "to fish up; to dredge up; to scoop up"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lauz",
+        "sound": "/laːu˧˩/",
+        "meaning": [
+            "prison; jail"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cieng",
+        "sound": "/ɕiːŋ˨˦/",
+        "meaning": [
+            "first month of the Chinese calendar",
+            "Chinese New Year; Spring Festival"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "cieng",
+        "sound": "/ɕiːŋ˨˦/",
+        "meaning": [
+            "to reveal; to leak; to inform"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "saidoengz",
+        "sound": "/θaːi˨˦ toŋ˧˩/",
+        "meaning": [
+            "rainbow"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "duzdoengz",
+        "sound": "/tu˧˩ toŋ˧˩/",
+        "meaning": [
+            "rainbow"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gwnz",
+        "sound": "/kɯn˧˩/",
+        "meaning": [
+            "up; above"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yihyen",
+        "sound": "/ji˧ jeːn˧˥/",
+        "meaning": [
+            "hospital"
+        ]
+    },
+    {
+        "pos": "pron",
+        "word": "bouxlawz",
+        "sound": "/pou˦˨ laɯ˧˩/",
+        "meaning": [
+            "who; whom"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "husw",
+        "sound": "/hu˧˥ θɯ˧˥/",
+        "meaning": [
+            "nurse (person trained to provide care for the sick)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Bouxyaej",
+        "sound": "/pou˦˨ jai˥/",
+        "meaning": [
+            "the Bouyei people"
+        ]
+    },
+    {
+        "pos": "prefix",
+        "word": "boux-",
+        "sound": "/pou˦˨/",
+        "meaning": [
+            "a person of a particular type or profession"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gaujvaq",
+        "sound": "/kaːu˥ βa˧˥/",
+        "meaning": [
+            "beggar"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "bouxganqbingh",
+        "sound": "/pou˦˨ kaːn˧˥ piŋ˧/",
+        "meaning": [
+            "nurse (person trained to provide care for the sick)"
+        ]
+    },
+    {
+        "pos": "suffix",
+        "word": "-boux",
+        "sound": "/pou˦˨/",
+        "meaning": [
+            "(of animals, plants) male"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "canghyw",
+        "sound": "/ɕaːŋ˧ jɯ˨˦/",
+        "meaning": [
+            "doctor; physician"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "yiebdaeuz",
+        "sound": "/jiːp˧ tau˧˩/",
+        "meaning": [
+            "home page"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "yieb",
+        "sound": "/jiːp˧/",
+        "meaning": [
+            "page (of a book)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "mbaengq",
+        "sound": "/ɓaŋ˧˥/",
+        "meaning": [
+            "bamboo tube."
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "nyamx",
+        "sound": "/ɲaːm˦˨/",
+        "meaning": [
+            "to shiver (because of cold)."
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Yehsuh Gihduz",
+        "sound": "/je˧ θu˧ ki˧ tu˧˩/",
+        "meaning": [
+            "Jesus Christ"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gyauvei",
+        "sound": "/kʲaːu˧˥ βei˧˥/",
+        "meaning": [
+            "(Christianity) church"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Yehsuh",
+        "sound": "/je˧ θu˧/",
+        "meaning": [
+            "Jesus"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yahmaiq",
+        "sound": "/ja˧ maːi˧˥/",
+        "meaning": [
+            "widow"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gaggaj",
+        "sound": "/kaːk˧ ka˥/",
+        "meaning": [
+            "to commit suicide"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "dajcim",
+        "sound": "/ta˥ ɕim˨˦/",
+        "meaning": [
+            "to give an injection"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lanmbwk",
+        "sound": "/laːn˨˦ ɓɯk˥/",
+        "meaning": [
+            "granddaughter (son's daughter)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lansai",
+        "sound": "/laːn˨˦ θaːi˨˦/",
+        "meaning": [
+            "grandson (son's son)"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "doj",
+        "sound": "/to˥/",
+        "meaning": [
+            "local"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "doj",
+        "sound": "/to˥/",
+        "meaning": [
+            "to gamble",
+            "to bet"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "mbwk",
+        "sound": "/ɓɯk˥/",
+        "meaning": [
+            "big; large",
+            "(of string, yarn, etc.) thick; coarse",
+            "female"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lwglan",
+        "sound": "/lɯk˧ laːn˨˦/",
+        "meaning": [
+            "descendant; offspring"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "miznaj",
+        "sound": "/mi˧˩ na˥/",
+        "meaning": [
+            "honourable; glorious"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "byoengq hangx saez",
+        "sound": "/pʲoŋ˧˥ haːŋ˦˨ θai˧˩/",
+        "meaning": [
+            "(idiomatic) to dig up somebody's unsavory past"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "ma dai maet caez dai",
+        "sound": "/ma˨˦ taːi˨˦ mat˥ ɕai˧˩ taːi˨˦/",
+        "meaning": [
+            "(idiomatic) to perish together"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "ep meuz gwn meiq",
+        "sound": "/ʔeːp˧˥ meːu˧˩ kɯn˨˦ mei˧˥/",
+        "meaning": [
+            "(idiomatic) to try to make somebody do something which they will not or cannot do"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gwn haeux rog",
+        "sound": "/kɯn˨˦ hau˦˨ ɣoːk˧/",
+        "meaning": [
+            "(idiomatic) to work somewhere away from home"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "aux ma dox haeb",
+        "sound": "/ʔaːu˦˨ ma˨˦ to˦˨ hap˧/",
+        "meaning": [
+            "(idiomatic) to incite one against the other"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "dem gyaeuj dem rieng",
+        "sound": "/teːm˨˦ kʲau˥ teːm˨˦ ɣiːŋ˨˦/",
+        "meaning": [
+            "(idiomatic) to embellish a story"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gingj",
+        "sound": "/kiŋ˥/",
+        "meaning": [
+            "to roll"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "riuj haizcauj",
+        "sound": "/ɣiu˥ haːi˧˩ ɕaːu˥/",
+        "meaning": [
+            "(idiomatic) to be an assistant of somebody"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "riuj",
+        "sound": "/ɣiu˥/",
+        "meaning": [
+            "to carry; to hold"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "nyaeb maet haeuj ndang",
+        "sound": "/ɲap˧ mat˥ hau˥ ɗaːŋ˨˦/",
+        "meaning": [
+            "(idiomatic) to look for trouble"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "langh bit roengz raemx",
+        "sound": "/laːŋ˧ pit˥ ɣoŋ˧˩ ɣam˦˨/",
+        "meaning": [
+            "(idiomatic) to be just what one hopes for"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "ndaej dangj vuengzdaeq sieng dangj sien",
+        "sound": "/ɗai˥ taːŋ˥ βuːŋ˧˩ tai˧˥ θiːŋ˨˦ taːŋ˥ θiːn˨˦/",
+        "meaning": [
+            "(idiomatic) to be unsatisfied at the current state"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "loengx",
+        "sound": "/loŋ˦˨/",
+        "meaning": [
+            "case; chest; box; trunk; basket"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "loengx",
+        "sound": "/loŋ˦˨/",
+        "meaning": [
+            "case of; box of; trunk of"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "boemx",
+        "sound": "/pom˦˨/",
+        "meaning": [
+            "bamboo"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "boemx",
+        "sound": "/pom˦˨/",
+        "meaning": [
+            "(dialectal) to break (something onto the ground); to smash; to drop something and break it"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gingj boemx loengx",
+        "sound": "/kiŋ˥ pom˦˨ loŋ˦˨/",
+        "meaning": [
+            "(idiomatic) to boast; to brag"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "laeujbizciuj",
+        "sound": "/lau˥ pi˧˩ ɕiu˥/",
+        "meaning": [
+            "beer"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "maiq",
+        "sound": "/maːi˧˥/",
+        "meaning": [
+            "widow; widower"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "goengda",
+        "sound": "/koŋ˨˦ ta˨˦/",
+        "meaning": [
+            "maternal grandfather"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "Vahgun",
+        "sound": "/βa˧ kun˨˦/",
+        "meaning": [
+            "Chinese language; Mandarin"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "couj",
+        "sound": "/ɕou˥/",
+        "meaning": [
+            "shy; ashamed; shameful"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "couj",
+        "sound": "/ɕou˥/",
+        "meaning": [
+            "second earthly branch"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "youx",
+        "sound": "/jou˦˨/",
+        "meaning": [
+            "tenth earthly branch"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "youx",
+        "sound": "/jou˦˨/",
+        "meaning": [
+            "lover; sweetheart; boyfriend or girlfriend"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "ceih",
+        "sound": "/ɕei˧/",
+        "meaning": [
+            "to punish"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ceih",
+        "sound": "/ɕei˧/",
+        "meaning": [
+            "sixth earthly branch"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ngux",
+        "sound": "/ŋu˦˨/",
+        "meaning": [
+            "seventh earthly branch"
+        ]
+    },
+    {
+        "pos": "num",
+        "word": "ngux",
+        "sound": "/ŋu˦˨/",
+        "meaning": [
+            "five (used in dates)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "feih",
+        "sound": "/fei˧/",
+        "meaning": [
+            "flavour; taste"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "feih",
+        "sound": "/fei˧/",
+        "meaning": [
+            "delicious; yummy; tasty",
+            "blissful"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "feih",
+        "sound": "/fei˧/",
+        "meaning": [
+            "eighth earthly branch"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "saenz",
+        "sound": "/θan˧˩/",
+        "meaning": [
+            "deity; god"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "saenz",
+        "sound": "/θan˧˩/",
+        "meaning": [
+            "fifth earthly branch"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "saenz",
+        "sound": "/θan˧˩/",
+        "meaning": [
+            "to vibrate; to shake; to quake",
+            "to shiver; to quiver; to jiggle; to tremble"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ceij",
+        "sound": "/ɕei˥/",
+        "meaning": [
+            "paper"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ceij",
+        "sound": "/ɕei˥/",
+        "meaning": [
+            "first earthly branch"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "ceij",
+        "sound": "/ɕei˥/",
+        "meaning": [
+            "to point"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "haih",
+        "sound": "/haːi˧/",
+        "meaning": [
+            "harm"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "haih",
+        "sound": "/haːi˧/",
+        "meaning": [
+            "to harm; to frame"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "haih",
+        "sound": "/haːi˧/",
+        "meaning": [
+            "(of things generating heat) to die down; to cool off",
+            "to wither; to wilt; to fade",
+            "to disperse"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "haih",
+        "sound": "/haːi˧/",
+        "meaning": [
+            "twelfth earthly branch"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "daengq",
+        "sound": "/taŋ˧˥/",
+        "meaning": [
+            "stool (a seat)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "daengq",
+        "sound": "/taŋ˧˥/",
+        "meaning": [
+            "to instruct; to tell (someone what to do)",
+            "to inform; to tell; to notify"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Feihlizbinh",
+        "sound": "/fei˧ li˧˩ pin˧/",
+        "meaning": [
+            "Philippines (a country in Asia)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "hoiq",
+        "sound": "/hoːi˧˥/",
+        "meaning": [
+            "slave",
+            "servant",
+            "underling; lackey; flunkey; sycophant"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "hoiq",
+        "sound": "/hoːi˧˥/",
+        "meaning": [
+            "to serve"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "iq",
+        "sound": "/ʔi˧˥/",
+        "meaning": [
+            "small; little (in size)",
+            "(of an object) thin; flimsy",
+            "(of a sound) soft; quiet; faint",
+            "young; little",
+            "youngest (in rank)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "ninz",
+        "sound": "/nin˧˩/",
+        "meaning": [
+            "to lie down; to recline",
+            "to sleep"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yinzhangz",
+        "sound": "/jin˧˩ haːŋ˧˩/",
+        "meaning": [
+            "bank"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "cuzbanj",
+        "sound": "/ɕu˧˩ paːn˥/",
+        "meaning": [
+            "to publish (a book, tape, disc, etc.)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cuzbanjse",
+        "sound": "/ɕu˧˩ paːn˥ θe˧˥/",
+        "meaning": [
+            "press; publishing house; publisher"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yenfaz",
+        "sound": "/jeːn˧˥ fa˧˩/",
+        "meaning": [
+            "constitution"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "loekraemx",
+        "sound": "/lok˥ ɣam˦˨/",
+        "meaning": [
+            "water wheel; watermill"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "sinhvwnz",
+        "sound": "/θin˧ βɯn˧˩/",
+        "meaning": [
+            "news"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "daeuh",
+        "sound": "/tau˧/",
+        "meaning": [
+            "ashes"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "daeuh",
+        "sound": "/tau˧/",
+        "meaning": [
+            "seaweed; algae"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "daeuh",
+        "sound": "/tau˧/",
+        "meaning": [
+            "green (as seaweed or algae)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "daeuh",
+        "sound": "/tau˧/",
+        "meaning": [
+            "to entreat; to implore"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Cunghvaz",
+        "sound": "/ɕuŋ˧ βa˧˩/",
+        "meaning": [
+            "China (a country in Asia)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Swnggingh",
+        "sound": "/θɯŋ˧˥ kiŋ˧/",
+        "meaning": [
+            "the Bible"
+        ]
+    },
+    {
+        "pos": "conj",
+        "word": "aenvih",
+        "sound": "/ʔan˨˦ βi˧/",
+        "meaning": [
+            "because; due to"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yihswngh",
+        "sound": "/ji˧ θɯŋ˧/",
+        "meaning": [
+            "doctor; physician"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "eiseng",
+        "sound": "/ʔei˨˦ θeːŋ˨˦/",
+        "meaning": [
+            "(dialectal) doctor; physician"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "singz",
+        "sound": "/θiŋ˧˩/",
+        "meaning": [
+            "fortified settlement",
+            "city"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gingsingz",
+        "sound": "/kiŋ˨˦ θiŋ˧˩/",
+        "meaning": [
+            "capital city (of a country)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "soujduh",
+        "sound": "/θou˥ tu˧/",
+        "meaning": [
+            "capital city (of a country)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cangh",
+        "sound": "/ɕaːŋ˧/",
+        "meaning": [
+            "someone in a particular profession"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "duzsuhgvanj",
+        "sound": "/tu˧˩ θu˧ kʷaːn˥/",
+        "meaning": [
+            "library"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "gungcanj",
+        "sound": "/kuŋ˧˥ ɕaːn˥/",
+        "meaning": [
+            "communist (related to communism)."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gungcanjcujyicej",
+        "sound": "/kuŋ˧˥ ɕaːn˥ ɕu˥ ji˧˥ ɕe˥/",
+        "meaning": [
+            "communist (supporter of communism)."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gungcanjcujyi",
+        "sound": "/kuŋ˧˥ ɕaːn˥ ɕu˥ ji˧˥/",
+        "meaning": [
+            "communism."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roegdingfaex",
+        "sound": "/ɣok˧ tiŋ˨˦ fai˦˨/",
+        "meaning": [
+            "woodpecker"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "cangz",
+        "sound": "/ɕaːŋ˧˩/",
+        "meaning": [
+            "set of ten",
+            "ten yuan"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "cangz",
+        "sound": "/ɕaːŋ˧˩/",
+        "meaning": [
+            "to hide; to conceal"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "cangz",
+        "sound": "/ɕaːŋ˧˩/",
+        "meaning": [
+            "(dialectal) to sigh; to moan"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Hozlanz",
+        "sound": "/ho˧˩ laːn˧˩/",
+        "meaning": [
+            "Holland; the Netherlands (a country in Europe)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Vwnhgohvaz",
+        "sound": "/βɯn˧ ko˧ βa˧˩/",
+        "meaning": [
+            "Vancouver (a seaport, the largest city in British Columbia, Canada)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "dangqdaeuj",
+        "sound": "/taːŋ˧˥ tau˥/",
+        "meaning": [
+            "iron (for pressing clothes)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "dangq",
+        "sound": "/taːŋ˧˥/",
+        "meaning": [
+            "measuring ladle"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "dangq",
+        "sound": "/taːŋ˧˥/",
+        "meaning": [
+            "ladle of; ladleful"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "dangq",
+        "sound": "/taːŋ˧˥/",
+        "meaning": [
+            "to iron; to press"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "dangq",
+        "sound": "/taːŋ˧˥/",
+        "meaning": [
+            "to pawn; to hock"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "dangq",
+        "sound": "/taːŋ˧˥/",
+        "meaning": [
+            "to coat; to plaster"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "dangq",
+        "sound": "/taːŋ˧˥/",
+        "meaning": [
+            "porch"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "dangq",
+        "sound": "/taːŋ˧˥/",
+        "meaning": [
+            "(dialectal) time (frequency)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gingjcaz",
+        "sound": "/kiŋ˥ ɕa˧˩/",
+        "meaning": [
+            "police"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lwgbag",
+        "sound": "/lɯk˧ paːk˧/",
+        "meaning": [
+            "(weather) hail"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cauhsi",
+        "sound": "/ɕaːu˧ θi˧˥/",
+        "meaning": [
+            "supermarket"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Linzgvei",
+        "sound": "/lin˧˩ kʷei˧˥/",
+        "meaning": [
+            "Lingui (a district and former county of Guilin, Guangxi, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Fuzsanh",
+        "sound": "/fu˧˩ θaːn˧/",
+        "meaning": [
+            "Foshan (a prefecture-level city in Guangdong, China)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Bwzswz",
+        "sound": "/pɯ˧˩ θɯ˧˩/",
+        "meaning": [
+            "Baise (a prefecture-level city in Guangxi, China)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "swcicouh",
+        "sound": "/θɯ˧˥ ɕi˧˥ ɕou˧/",
+        "meaning": [
+            "autonomous prefecture (of China)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "mienh",
+        "sound": "/miːn˧/",
+        "meaning": [
+            "(geometry) plane",
+            "face; side; surface",
+            "front; obverse; outer or upper surface of an object",
+            "face (of a person or animal)"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "mienh",
+        "sound": "/miːn˧/",
+        "meaning": [
+            "Used for flat surfaces or objects."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "mienh",
+        "sound": "/miːn˧/",
+        "meaning": [
+            "wheat (plant)",
+            "wheat (grain)",
+            "noodles"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "feiyenz",
+        "sound": "/fei˧˥ jeːn˧˩/",
+        "meaning": [
+            "(medicine) pneumonia"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gih",
+        "sound": "/ki˧/",
+        "meaning": [
+            "district"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "suj",
+        "sound": "/θu˥/",
+        "meaning": [
+            "lock (device)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "suj",
+        "sound": "/θu˥/",
+        "meaning": [
+            "to lock"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lwgbieng",
+        "sound": "/lɯk˧ piːŋ˨˦/",
+        "meaning": [
+            "cucumber"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gva",
+        "sound": "/kʷa˨˦/",
+        "meaning": [
+            "gourd; melon; squash"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gva",
+        "sound": "/kʷa˨˦/",
+        "meaning": [
+            "(dialectal) wok"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "namzgva",
+        "sound": "/naːm˧˩ kʷa˨˦/",
+        "meaning": [
+            "pumpkin"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lwggva",
+        "sound": "/lɯk˧ kʷa˨˦/",
+        "meaning": [
+            "pumpkin"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "makningzmungx",
+        "sound": "/maːk˧˥ niŋ˧˩ muŋ˦˨/",
+        "meaning": [
+            "lemon"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "bouxsai",
+        "sound": "/pou˦˨ θaːi˨˦/",
+        "meaning": [
+            "man; male",
+            "husband (term of reference)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gyaeqhak",
+        "sound": "/kʲai˧˥ haːk˧˥/",
+        "meaning": [
+            "egg yolk."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "myonzlieng",
+        "sound": "/mʲoːn˧˩ liːŋ˨˦/",
+        "meaning": [
+            "egg yolk."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gyaeqhenj",
+        "sound": "/kʲai˧˥ heːn˥/",
+        "meaning": [
+            "egg yolk."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ywraemx",
+        "sound": "/jɯ˨˦ ɣam˦˨/",
+        "meaning": [
+            "medicine in liquid form."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "bohmeh",
+        "sound": "/po˧ me˧/",
+        "meaning": [
+            "parents; father and mother.",
+            "couples; husband and wife."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "rauq",
+        "sound": "/ɣaːu˧˥/",
+        "meaning": [
+            "rake"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "rauq",
+        "sound": "/ɣaːu˧˥/",
+        "meaning": [
+            "to rake"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "minzgoeng",
+        "sound": "/min˧˩ koŋ˧˥/",
+        "meaning": [
+            "worker, labourer, especially for a public project."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "mounoh",
+        "sound": "/mou˨˦ no˧/",
+        "meaning": [
+            "pig raised for meat; meat hog"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "mouraq",
+        "sound": "/mou˨˦ ɣa˧˥/",
+        "meaning": [
+            "swine fever"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "raemxda",
+        "sound": "/ɣam˦˨ ta˨˦/",
+        "meaning": [
+            "tear (liquid from the eyes)."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "mboqraemxraeuj",
+        "sound": "/ɓo˧˥ ɣam˦˨ ɣau˥/",
+        "meaning": [
+            "hot spring."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "mimiz",
+        "sound": "/mi˧˥ mi˧˩/",
+        "meaning": [
+            "secret."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "mazcoz",
+        "sound": "/ma˧˩ ɕo˧˩/",
+        "meaning": [
+            "mahjong"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "raemxsaw",
+        "sound": "/ɣam˦˨ θaɯ˨˦/",
+        "meaning": [
+            "clear water.",
+            "tap water."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "raemxhom",
+        "sound": "/ɣam˦˨ hoːm˨˦/",
+        "meaning": [
+            "perfume."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "swhyienz",
+        "sound": "/θɯ˧ jiːn˧˩/",
+        "meaning": [
+            "nature."
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "swhyienz",
+        "sound": "/θɯ˧ jiːn˧˩/",
+        "meaning": [
+            "natural."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roeglaej",
+        "sound": "/ɣok˧ lai˥/",
+        "meaning": [
+            "sparrow"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roegam",
+        "sound": "/ɣok˧ ʔaːm˨˦/",
+        "meaning": [
+            "quail"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roegcaeuq",
+        "sound": "/ɣok˧ ɕau˧˥/",
+        "meaning": [
+            "egret"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roegbeghag",
+        "sound": "/ɣok˧ peːk˧ haːk˧/",
+        "meaning": [
+            "Siberian crane (Leucogeranus leucogeranus)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "beghag",
+        "sound": "/peːk˧ haːk˧/",
+        "meaning": [
+            "Siberian crane (Grus leucogeranus)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roeggungjcoz",
+        "sound": "/ɣok˧ kuŋ˥ ɕo˧˩/",
+        "meaning": [
+            "peacock; peafowl"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gungjcoz",
+        "sound": "/kuŋ˥ ɕo˧˩/",
+        "meaning": [
+            "peacock; peafowl"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roeggumj",
+        "sound": "/ɣok˧ kum˥/",
+        "meaning": [
+            "quail"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "bauqceij",
+        "sound": "/paːu˧˥ ɕei˥/",
+        "meaning": [
+            "newspaper"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roegbit",
+        "sound": "/ɣok˧ pit˥/",
+        "meaning": [
+            "wild duck"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cabceiq",
+        "sound": "/ɕaːp˧ ɕei˧˥/",
+        "meaning": [
+            "magazine"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "aep",
+        "sound": "/ʔap˥/",
+        "meaning": [
+            "(of a dog) to bark (when chasing animals)",
+            "to hunt using dogs",
+            "to talk nonsense"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "diemj",
+        "sound": "/tiːm˥/",
+        "meaning": [
+            "to light; to set; to ignite",
+            "to check; to examine; to inventory"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "diemj",
+        "sound": "/tiːm˥/",
+        "meaning": [
+            "drop of (liquid)",
+            "hour",
+            "o'clock",
+            "Used for opinions, points of view, etc."
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "diemj",
+        "sound": "/tiːm˥/",
+        "meaning": [
+            "to catch (aquatic animals)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ceuq",
+        "sound": "/ɕeːu˧˥/",
+        "meaning": [
+            "penis of a boy"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ced",
+        "sound": "/ɕeːt˧/",
+        "meaning": [
+            "female genitals; vagina"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "cawx",
+        "sound": "/ɕaɯ˦˨/",
+        "meaning": [
+            "to buy"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "muengx",
+        "sound": "/muːŋ˦˨/",
+        "meaning": [
+            "fishing net",
+            "spiderweb; cobweb"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roegyengj",
+        "sound": "/ɣok˧ jeːŋ˥/",
+        "meaning": [
+            "parrot"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "duzbeuq",
+        "sound": "/tu˧˩ peːu˧˥/",
+        "meaning": [
+            "leopard"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lwgnyez",
+        "sound": "/lɯk˧ ɲe˧˩/",
+        "meaning": [
+            "child; kid (someone who has not yet reached adulthood)",
+            "child; son or daughter"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "daeg",
+        "sound": "/tak˧/",
+        "meaning": [
+            "Used for young males."
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "daeg",
+        "sound": "/tak˧/",
+        "meaning": [
+            "(of animals) male"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "beuq",
+        "sound": "/peːu˧˥/",
+        "meaning": [
+            "leopard"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roegraeu",
+        "sound": "/ɣok˧ ɣau˨˦/",
+        "meaning": [
+            "turtle dove"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cueng",
+        "sound": "/ɕuːŋ˨˦/",
+        "meaning": [
+            "window"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "conghcueng",
+        "sound": "/ɕoːŋ˧ ɕuːŋ˨˦/",
+        "meaning": [
+            "window"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "godumh",
+        "sound": "/ko˨˦ tum˧/",
+        "meaning": [
+            "strawberry (plant)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lwgdumh",
+        "sound": "/lɯk˧ tum˧/",
+        "meaning": [
+            "strawberry (fruit)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "makdumh",
+        "sound": "/maːk˧˥ tum˧/",
+        "meaning": [
+            "strawberry (fruit)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "makbingzgoj",
+        "sound": "/maːk˧˥ piŋ˧˩ ko˥/",
+        "meaning": [
+            "apple"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "rengj",
+        "sound": "/ɣeːŋ˥/",
+        "meaning": [
+            "(intransitive) to dry"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "rengj",
+        "sound": "/ɣeːŋ˥/",
+        "meaning": [
+            "dry; dried"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "baicuzsoj",
+        "sound": "/paːi˧˥ ɕu˧˩ θo˥/",
+        "meaning": [
+            "local police station"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gungh'anhgiz",
+        "sound": "/kuŋ˧ ʔaːn˧ ki˧˩/",
+        "meaning": [
+            "public security bureau; PSB"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yozvei",
+        "sound": "/jo˧˩ βei˧˥/",
+        "meaning": [
+            "academic society; scholarly association"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yijvwnz",
+        "sound": "/ji˥ βɯn˧˩/",
+        "meaning": [
+            "language and script",
+            "language and literature"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "raemj",
+        "sound": "/ɣam˥/",
+        "meaning": [
+            "to chop down or off; to cut down or off; to fell"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "hangz",
+        "sound": "/haːŋ˧˩/",
+        "meaning": [
+            "to abuse; to bully",
+            "to threaten; to menace; to scare"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "hangz",
+        "sound": "/haːŋ˧˩/",
+        "meaning": [
+            "chin; lower jaw"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "hangz",
+        "sound": "/haːŋ˧˩/",
+        "meaning": [
+            "row; line; queue",
+            "market",
+            "industry; trade; profession"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "hangz",
+        "sound": "/haːŋ˧˩/",
+        "meaning": [
+            "row; line (of things)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "hangz",
+        "sound": "/haːŋ˧˩/",
+        "meaning": [
+            "to tack (a quilt)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "namh",
+        "sound": "/naːm˧/",
+        "meaning": [
+            "earth; soil; dirt"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "dieg",
+        "sound": "/tiːk˧/",
+        "meaning": [
+            "land",
+            "place; region; space"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "lingq",
+        "sound": "/liŋ˧˥/",
+        "meaning": [
+            "steep; precipitous; sharply inclined"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "luengz",
+        "sound": "/luːŋ˧˩/",
+        "meaning": [
+            "(dialectal) copper"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gamj",
+        "sound": "/kaːm˥/",
+        "meaning": [
+            "cave"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gamj",
+        "sound": "/kaːm˥/",
+        "meaning": [
+            "to dare to"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "doengh",
+        "sound": "/toŋ˧/",
+        "meaning": [
+            "field; open land"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "doengh",
+        "sound": "/toŋ˧/",
+        "meaning": [
+            "tract of (field)"
+        ]
+    },
+    {
+        "pos": "num",
+        "word": "doengh",
+        "sound": "/toŋ˧/",
+        "meaning": [
+            "some; a few"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "doengh",
+        "sound": "/toŋ˧/",
+        "meaning": [
+            "(intransitive) to move; to stir",
+            "(transitive) to move; to shift",
+            "(transitive) to play (a game in which pieces are moved, e.g. chess)",
+            "(intransitive) to take action",
+            "(transitive) to use; to put to use",
+            "(transitive) to affect; to disturb",
+            "(intransitive) to wobble; to waver; to move",
+            "(intransitive) to waver; to vacillate; to waffle"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "congz",
+        "sound": "/ɕoːŋ˧˩/",
+        "meaning": [
+            "bed (furniture)",
+            "(dialectal) table; desk"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "dungx",
+        "sound": "/tuŋ˦˨/",
+        "meaning": [
+            "abdomen; belly; stomach"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "heiq",
+        "sound": "/hei˧˥/",
+        "meaning": [
+            "play; show; opera"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "heiq",
+        "sound": "/hei˧˥/",
+        "meaning": [
+            "air",
+            "smell; scent"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "heiq",
+        "sound": "/hei˧˥/",
+        "meaning": [
+            "to be worried that; to be anxious that"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ndang",
+        "sound": "/ɗaːŋ˨˦/",
+        "meaning": [
+            "body"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "gwd",
+        "sound": "/kɯt˧/",
+        "meaning": [
+            "viscous; thick"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roeghenj",
+        "sound": "/ɣok˧ heːn˥/",
+        "meaning": [
+            "oriole"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roegdoxgap",
+        "sound": "/ɣok˧ to˦˨ kaːp˧˥/",
+        "meaning": [
+            "pigeon"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "byanouq",
+        "sound": "/pʲa˨˦ nou˧˥/",
+        "meaning": [
+            "loach"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roeggeuq",
+        "sound": "/ɣok˧ keːu˧˥/",
+        "meaning": [
+            "myna"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "daiz",
+        "sound": "/taːi˧˩/",
+        "meaning": [
+            "stage (for performing)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "daiz",
+        "sound": "/taːi˧˩/",
+        "meaning": [
+            "table; desk"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "daiz",
+        "sound": "/taːi˧˩/",
+        "meaning": [
+            "to hold up; to support by holding in one's hands",
+            "to flatter; to fawn over; to brownnose"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "faexcuk",
+        "sound": "/fai˦˨ ɕuk˥/",
+        "meaning": [
+            "bamboo"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "baeu",
+        "sound": "/pau˨˦/",
+        "meaning": [
+            "crab"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "baeu",
+        "sound": "/pau˨˦/",
+        "meaning": [
+            "ankle"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "baeu",
+        "sound": "/pau˨˦/",
+        "meaning": [
+            "to hold in arms; to embrace; to hug"
+        ]
+    },
+    {
+        "pos": "particle",
+        "word": "baeu",
+        "sound": "/pau˨˦/",
+        "meaning": [
+            "used to express yes-no question"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "duzrug",
+        "sound": "/tu˧˩ ɣuk˧/",
+        "meaning": [
+            "tadpole"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "duzgyau",
+        "sound": "/tu˧˩ kʲaːu˨˦/",
+        "meaning": [
+            "spider"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roeggacak",
+        "sound": "/ɣok˧ ka˨˦ ɕaːk˧˥/",
+        "meaning": [
+            "magpie"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roeggae",
+        "sound": "/ɣok˧ kai˨˦/",
+        "meaning": [
+            "pheasant"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gvi",
+        "sound": "/kʷi˨˦/",
+        "meaning": [
+            "turtle"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gvi",
+        "sound": "/kʷi˨˦/",
+        "meaning": [
+            "to merge; to put together",
+            "to belong to; to come under"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "mbungqmbaj",
+        "sound": "/ɓuŋ˧˥ ɓa˥/",
+        "meaning": [
+            "(dialectal) butterfly"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "faeqfwj",
+        "sound": "/fai˧˥ fɯ˥/",
+        "meaning": [
+            "(dialectal, including Wuming) bat (animal)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "biqrengh",
+        "sound": "/pi˧˥ ɣeːŋ˧/",
+        "meaning": [
+            "(dialectal, including Wuming) cicada"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "dinz",
+        "sound": "/tin˧˩/",
+        "meaning": [
+            "wasp"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "nengznyaen",
+        "sound": "/neːŋ˧˩ ɲan˨˦/",
+        "meaning": [
+            "fly (insect)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "daekdaeq",
+        "sound": "/tak˥ tai˧˥/",
+        "meaning": [
+            "cricket (insect)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roegfek",
+        "sound": "/ɣok˧ feːk˧˥/",
+        "meaning": [
+            "partridge"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "raeu",
+        "sound": "/ɣau˨˦/",
+        "meaning": [
+            "head louse"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "naenz",
+        "sound": "/nan˧˩/",
+        "meaning": [
+            "louse (insect)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "doq",
+        "sound": "/to˧˥/",
+        "meaning": [
+            "rabbit"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "doq",
+        "sound": "/to˧˥/",
+        "meaning": [
+            "wasp; hornet"
+        ]
+    },
+    {
+        "pos": "adv",
+        "word": "doq",
+        "sound": "/to˧˥/",
+        "meaning": [
+            "immediately; at once",
+            "already; for a long time; long ago"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "doq",
+        "sound": "/to˧˥/",
+        "meaning": [
+            "to make; to build; to construct (something out of wood)"
+        ]
+    },
+    {
+        "pos": "adv",
+        "word": "doq",
+        "sound": "/to˧˥/",
+        "meaning": [
+            "all"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "byalae",
+        "sound": "/pʲa˨˦ lai˨˦/",
+        "meaning": [
+            "Asian swamp eel (Monopterus albus)"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "naiq",
+        "sound": "/naːi˧˥/",
+        "meaning": [
+            "weary; tired; exhausted; worn out",
+            "weak; feeble",
+            "depressed; dispirited"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "fw",
+        "sound": "/fɯ˨˦/",
+        "meaning": [
+            "soft-shell turtle"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gaeqseng",
+        "sound": "/kai˧˥ θeːŋ˨˦/",
+        "meaning": [
+            "cock; rooster"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gaeqboux",
+        "sound": "/kai˧˥ pou˦˨/",
+        "meaning": [
+            "cock; rooster"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "byaleix",
+        "sound": "/pʲa˨˦ lei˦˨/",
+        "meaning": [
+            "carp"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gaeqmeh",
+        "sound": "/kai˧˥ me˧/",
+        "meaning": [
+            "hen that has already laid eggs"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "hoenx",
+        "sound": "/hon˦˨/",
+        "meaning": [
+            "to hit (someone or something); to strike; to smack"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "moeb",
+        "sound": "/mop˧/",
+        "meaning": [
+            "to hit (someone or something); to strike; to smack"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "suiz",
+        "sound": "/θuːi˧˩/",
+        "meaning": [
+            "drowsy; sleepy"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "baeg",
+        "sound": "/pak˧/",
+        "meaning": [
+            "to be tired; to be exhausted",
+            "to gasp for breath"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gyaep",
+        "sound": "/kʲap˥/",
+        "meaning": [
+            "(fish) scale",
+            "scab"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gyaep",
+        "sound": "/kʲap˥/",
+        "meaning": [
+            "bamboo hat"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gyaep",
+        "sound": "/kʲap˥/",
+        "meaning": [
+            "to chase; to pursue",
+            "to chase off; drive off"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "dinj",
+        "sound": "/tin˥/",
+        "meaning": [
+            "short"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "saeq",
+        "sound": "/θai˧˥/",
+        "meaning": [
+            "thin; slender",
+            "fine",
+            "tiny; little",
+            "(of a voice) soft",
+            "young"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "saeq",
+        "sound": "/θai˧˥/",
+        "meaning": [
+            "government official"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "nyauh",
+        "sound": "/ɲaːu˧/",
+        "meaning": [
+            "small shrimp"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gungq",
+        "sound": "/kuŋ˧˥/",
+        "meaning": [
+            "large shrimp"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "raez",
+        "sound": "/ɣai˧˩/",
+        "meaning": [
+            "long"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "raez",
+        "sound": "/ɣai˧˩/",
+        "meaning": [
+            "(of thunder) to make a sound; to roar"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gvej",
+        "sound": "/kʷe˥/",
+        "meaning": [
+            "frog (small)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gvej",
+        "sound": "/kʷe˥/",
+        "meaning": [
+            "to cut; to harvest"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "byacaek",
+        "sound": "/pʲa˨˦ ɕak˥/",
+        "meaning": [
+            "crucian carp"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "byalingz",
+        "sound": "/pʲa˨˦ liŋ˧˩/",
+        "meaning": [
+            "mud carp; dace (Cirrhinus molitorella)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "bya'ndoek",
+        "sound": "/pʲa˨˦ ɗok˥/",
+        "meaning": [
+            "walking catfish"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "byaraiz",
+        "sound": "/pʲa˨˦ ɣaːi˧˩/",
+        "meaning": [
+            "northern snakehead (Channa argus)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "byaj",
+        "sound": "/pʲa˥/",
+        "meaning": [
+            "thunder and/or lightning",
+            "god of thunder"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "bienzngeiz",
+        "sound": "/piːn˧˩ ŋei˧˩/",
+        "meaning": [
+            "cheap; inexpensive"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "bienzngeiz",
+        "sound": "/piːn˧˩ ŋei˧˩/",
+        "meaning": [
+            "advantage; benefit (usually unfairly gained)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "bienzngeiz",
+        "sound": "/piːn˧˩ ŋei˧˩/",
+        "meaning": [
+            "to let somebody off lightly"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "rieng",
+        "sound": "/ɣiːŋ˨˦/",
+        "meaning": [
+            "tail",
+            "tail-like part"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "rieng",
+        "sound": "/ɣiːŋ˨˦/",
+        "meaning": [
+            "basket made of woven bamboo strips used to hold fish"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "byavanx",
+        "sound": "/pʲa˨˦ βaːn˦˨/",
+        "meaning": [
+            "grass carp (Ctenopharyngodon idella)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "byahaux",
+        "sound": "/pʲa˨˦ haːu˦˨/",
+        "meaning": [
+            "catfish"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "byagaq",
+        "sound": "/pʲa˨˦ ka˧˥/",
+        "meaning": [
+            "Chinese perch; mandarin fish (Siniperca chuatsi)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gyaeujhoq",
+        "sound": "/kʲau˥ ho˧˥/",
+        "meaning": [
+            "knee (joint in the middle of the leg and area around it)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "heuh",
+        "sound": "/heːu˧/",
+        "meaning": [
+            "to be called",
+            "to call; to shout",
+            "to cry; to bawl",
+            "to put out a call"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "daihyangz",
+        "sound": "/taːi˧ jaːŋ˧˩/",
+        "meaning": [
+            "ocean"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "doenghduz",
+        "sound": "/toŋ˧ tu˧˩/",
+        "meaning": [
+            "animal",
+            "(specifically) domestic animal"
+        ]
+    },
+    {
+        "pos": "conj",
+        "word": "byoenh",
+        "sound": "/pʲon˧/",
+        "meaning": [
+            "and"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "dauj",
+        "sound": "/taːu˥/",
+        "meaning": [
+            "island"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "deih",
+        "sound": "/tei˧/",
+        "meaning": [
+            "land; ground; earth",
+            "place",
+            "(dialectal) tomb; grave"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "deih",
+        "sound": "/tei˧/",
+        "meaning": [
+            "close; dense",
+            "frequent; often"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "Saen Saelanz",
+        "sound": "/θan˨˦ θai˨˦ laːn˧˩/",
+        "meaning": [
+            "New Zealand"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cancwngh",
+        "sound": "/ɕaːn˨˦ ɕɯŋ˧/",
+        "meaning": [
+            "war"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "Daibingzyangz",
+        "sound": "/taːi˨˦ piŋ˧˩ jaːŋ˧˩/",
+        "meaning": [
+            "Pacific Ocean"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "swnghvuz",
+        "sound": "/θɯŋ˧ βu˧˩/",
+        "meaning": [
+            "organism"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "youq",
+        "sound": "/jou˧˥/",
+        "meaning": [
+            "to be, to reside, to live"
+        ]
+    },
+    {
+        "pos": "prep",
+        "word": "youq",
+        "sound": "/jou˧˥/",
+        "meaning": [
+            "at, in"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "fatyaem",
+        "sound": "/faːt˧˥ jam˨˦/",
+        "meaning": [
+            "pronunciation"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "miux",
+        "sound": "/miu˦˨/",
+        "meaning": [
+            "second (unit of time)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "vwnzyoz",
+        "sound": "/βɯn˧˩ jo˧˩/",
+        "meaning": [
+            "literature"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "doenghgo",
+        "sound": "/toŋ˧ ko˨˦/",
+        "meaning": [
+            "plant"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "ndat",
+        "sound": "/ɗaːt˧˥/",
+        "meaning": [
+            "hot"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "ndat",
+        "sound": "/ɗaːt˧˥/",
+        "meaning": [
+            "to heat"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "ndat",
+        "sound": "/ɗaːt˧˥/",
+        "meaning": [
+            "to sting"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "funghvuengz",
+        "sound": "/fuŋ˧ βuːŋ˧˩/",
+        "meaning": [
+            "fenghuang; phoenix"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gamjcingz",
+        "sound": "/kaːm˥ ɕiŋ˧˩/",
+        "meaning": [
+            "emotion"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "saeu",
+        "sound": "/θau˨˦/",
+        "meaning": [
+            "pillar, post"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "haemhneix",
+        "sound": "/ham˧ nei˦˨/",
+        "meaning": [
+            "tonight"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "onj",
+        "sound": "/ʔoːn˥/",
+        "meaning": [
+            "steady"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ngoenzbyug",
+        "sound": "/ŋon˧˩ pʲuk˧/",
+        "meaning": [
+            "tomorrow"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "byaekmbungj",
+        "sound": "/pʲak˥ ɓuŋ˥/",
+        "meaning": [
+            "morning glory"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "suenq",
+        "sound": "/θuːn˧˥/",
+        "meaning": [
+            "garlic"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "imq",
+        "sound": "/ʔim˧˥/",
+        "meaning": [
+            "full; satiated"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "imq",
+        "sound": "/ʔim˧˥/",
+        "meaning": [
+            "to be full; to be satiated"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "sinq",
+        "sound": "/θin˧˥/",
+        "meaning": [
+            "to believe"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "coeng",
+        "sound": "/ɕoŋ˨˦/",
+        "meaning": [
+            "spring onion, scallion"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "byaekbohcaiq",
+        "sound": "/pʲak˥ po˧ ɕaːi˧˥/",
+        "meaning": [
+            "spinach"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ginzcaiq",
+        "sound": "/kin˧˩ ɕaːi˧˥/",
+        "meaning": [
+            "celery"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "gaenh",
+        "sound": "/kan˧/",
+        "meaning": [
+            "near"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "vunqdiz",
+        "sound": "/βun˧˥ ti˧˩/",
+        "meaning": [
+            "question"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "camhgyah",
+        "sound": "/ɕaːm˧ kʲa˧/",
+        "meaning": [
+            "to take part in, to participate"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "gyae",
+        "sound": "/kʲai˨˦/",
+        "meaning": [
+            "far"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "gyawj",
+        "sound": "/kʲaɯ˥/",
+        "meaning": [
+            "near"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "najbyak",
+        "sound": "/na˥ pʲaːk˧˥/",
+        "meaning": [
+            "forehead"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "mbwnnamh",
+        "sound": "/ɓɯn˨˦ naːm˧/",
+        "meaning": [
+            "nature"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "moengj",
+        "sound": "/moŋ˥/",
+        "meaning": [
+            "mold"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "uq",
+        "sound": "/ʔu˧˥/",
+        "meaning": [
+            "dirty"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "cengh",
+        "sound": "/ɕeːŋ˧/",
+        "meaning": [
+            "clean"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "rwet",
+        "sound": "/ɣɯːt˧˥/",
+        "meaning": [
+            "waist"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gizcangj",
+        "sound": "/ki˧˩ ɕaːŋ˥/",
+        "meaning": [
+            "bureau chief; managing director"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yangj",
+        "sound": "/jaːŋ˥/",
+        "meaning": [
+            "oxygen"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "denhvwnz",
+        "sound": "/teːn˧ βɯn˧˩/",
+        "meaning": [
+            "astronomy"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "veisingh",
+        "sound": "/βei˨˦ θiŋ˧/",
+        "meaning": [
+            "satellite"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "danq",
+        "sound": "/taːn˧˥/",
+        "meaning": [
+            "carbon"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "vayoz",
+        "sound": "/βa˨˦ jo˧˩/",
+        "meaning": [
+            "chemistry"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cungsim",
+        "sound": "/ɕuŋ˨˦ θim˨˦/",
+        "meaning": [
+            "center, centre"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yinzgouj",
+        "sound": "/jin˧˩ kou˥/",
+        "meaning": [
+            "population"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yienhsiengq",
+        "sound": "/jiːn˧ θiːŋ˧˥/",
+        "meaning": [
+            "phenomenon"
+        ]
+    },
+    {
+        "pos": "pron",
+        "word": "sojmiz",
+        "sound": "/θo˥ mi˧˩/",
+        "meaning": [
+            "all"
+        ]
+    },
+    {
+        "pos": "adv",
+        "word": "ceiq",
+        "sound": "/ɕei˧˥/",
+        "meaning": [
+            "most, -est (forms the superlative of adjectives)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "ceiq",
+        "sound": "/ɕei˧˥/",
+        "meaning": [
+            "to buy; to purchase; to acquire"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "giujdin",
+        "sound": "/kiu˥ tin˨˦/",
+        "meaning": [
+            "heel"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "laeng",
+        "sound": "/laŋ˨˦/",
+        "meaning": [
+            "back (body part)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "heiqhaeuh",
+        "sound": "/hei˧˥ hau˧/",
+        "meaning": [
+            "climate"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yienz",
+        "sound": "/jiːn˧˩/",
+        "meaning": [
+            "lead (chemical element)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gimqcij",
+        "sound": "/kim˧˥ ɕi˥/",
+        "meaning": [
+            "to forbid, to prohibit"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Haijdai",
+        "sound": "/haːi˥ taːi˨˦/",
+        "meaning": [
+            "the Dead Sea"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "gvangq",
+        "sound": "/kʷaːŋ˧˥/",
+        "meaning": [
+            "wide, broad"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "ciengq",
+        "sound": "/ɕiːŋ˧˥/",
+        "meaning": [
+            "to sing"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ciengq",
+        "sound": "/ɕiːŋ˧˥/",
+        "meaning": [
+            "sauce"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "doengzeiq",
+        "sound": "/toŋ˧˩ ʔei˧˥/",
+        "meaning": [
+            "to agree"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "nyieg",
+        "sound": "/ɲiːk˧/",
+        "meaning": [
+            "weak"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "mbaeq",
+        "sound": "/ɓai˧˥/",
+        "meaning": [
+            "wet"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "golinxvaiz",
+        "sound": "/ko˨˦ lin˦˨ βaːi˧˩/",
+        "meaning": [
+            "cactus"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "oij",
+        "sound": "/ʔoːi˥/",
+        "meaning": [
+            "sugar cane (Saccharum officinarum)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ngwzdoeg",
+        "sound": "/ŋɯ˧˩ tok˧/",
+        "meaning": [
+            "venomous snake"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "raeuq",
+        "sound": "/ɣau˧˥/",
+        "meaning": [
+            "(of a dog) to bark"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "mbaw",
+        "sound": "/ɓaɯ˨˦/",
+        "meaning": [
+            "leaf"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "daemq",
+        "sound": "/tam˧˥/",
+        "meaning": [
+            "short; low (having a small vertical dimension)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "moegsawz",
+        "sound": "/mok˧ θaɯ˧˩/",
+        "meaning": [
+            "cassava"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "moeggva",
+        "sound": "/mok˧ kʷa˨˦/",
+        "meaning": [
+            "papaya"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "biek",
+        "sound": "/piːk˧˥/",
+        "meaning": [
+            "taro"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gvehoengz",
+        "sound": "/kʷe˨˦ hoŋ˧˩/",
+        "meaning": [
+            "watermelon"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cwzyoz",
+        "sound": "/ɕɯ˧˩ jo˧˩/",
+        "meaning": [
+            "philosophy"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "dijyuz",
+        "sound": "/ti˥ ju˧˩/",
+        "meaning": [
+            "sport"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cogya",
+        "sound": "/ɕo˨˦ kʲa˨˦/",
+        "meaning": [
+            "author; writer"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gijngoz",
+        "sound": "/ki˥ ŋo˧˩/",
+        "meaning": [
+            "penguin"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "nyouh",
+        "sound": "/ɲou˧/",
+        "meaning": [
+            "piss; urine"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "hawq",
+        "sound": "/haɯ˧˥/",
+        "meaning": [
+            "dry"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "swix",
+        "sound": "/θɯːi˦˨/",
+        "meaning": [
+            "left (side)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "naehang",
+        "sound": "/nai˨˦ haːŋ˨˦/",
+        "meaning": [
+            "ice"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "byaij",
+        "sound": "/pʲaːi˥/",
+        "meaning": [
+            "to walk"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "naeuh",
+        "sound": "/nau˧/",
+        "meaning": [
+            "rotten"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "canghfwen",
+        "sound": "/ɕaːŋ˧ fɯːn˨˦/",
+        "meaning": [
+            "singer"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "coh",
+        "sound": "/ɕo˧/",
+        "meaning": [
+            "name"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "fouq",
+        "sound": "/fou˧˥/",
+        "meaning": [
+            "rich"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gi'gvanh",
+        "sound": "/ki˨˦ kʷaːn˧/",
+        "meaning": [
+            "organ"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cungq",
+        "sound": "/ɕuŋ˧˥/",
+        "meaning": [
+            "gun"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gyauyuz",
+        "sound": "/kʲaːu˨˦ ju˧˩/",
+        "meaning": [
+            "education"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "rueg",
+        "sound": "/ɣuːk˧/",
+        "meaning": [
+            "to puke, to vomit"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gaeu",
+        "sound": "/kau˨˦/",
+        "meaning": [
+            "horn"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "daeuq",
+        "sound": "/tau˧˥/",
+        "meaning": [
+            "to fight"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "hwet",
+        "sound": "/hɯːt˧˥/",
+        "meaning": [
+            "waist"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "binghdoeg",
+        "sound": "/piŋ˧ tok˧/",
+        "meaning": [
+            "(medicine) virus"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "saek",
+        "sound": "/θak˥/",
+        "meaning": [
+            "color, colour"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "okdaeuj",
+        "sound": "/ʔoːk˧˥ tau˥/",
+        "meaning": [
+            "to come out"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gijgwn",
+        "sound": "/ki˥ kɯn˨˦/",
+        "meaning": [
+            "food"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Lij",
+        "sound": "/li˥/",
+        "meaning": [
+            "A surname​."
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Vangz",
+        "sound": "/βaːŋ˧˩/",
+        "meaning": [
+            "A surname​."
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Lungz",
+        "sound": "/luŋ˧˩/",
+        "meaning": [
+            "A surname​."
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Yangz",
+        "sound": "/jaːŋ˧˩/",
+        "meaning": [
+            "A surname​."
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Vuz",
+        "sound": "/βu˧˩/",
+        "meaning": [
+            "A surname​."
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Fuz",
+        "sound": "/fu˧˩/",
+        "meaning": [
+            "A surname​."
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Loz",
+        "sound": "/lo˧˩/",
+        "meaning": [
+            "A surname​."
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Veiz",
+        "sound": "/βei˧˩/",
+        "meaning": [
+            "A surname​."
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Lingz",
+        "sound": "/liŋ˧˩/",
+        "meaning": [
+            "A surname​."
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Cinz",
+        "sound": "/ɕin˧˩/",
+        "meaning": [
+            "A surname​."
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Cinz",
+        "sound": "/ɕin˧˩/",
+        "meaning": [
+            "A surname​."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "haeuxyangz",
+        "sound": "/hau˦˨ jaːŋ˧˩/",
+        "meaning": [
+            "corn; maize"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lwgbaed",
+        "sound": "/lɯk˧ pat˧/",
+        "meaning": [
+            "pupil (of the eye)"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "ningq",
+        "sound": "/niŋ˧˥/",
+        "meaning": [
+            "small; little",
+            "young (as a child)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ningq",
+        "sound": "/niŋ˧˥/",
+        "meaning": [
+            "penis"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gvaq",
+        "sound": "/kʷa˧˥/",
+        "meaning": [
+            "to cross; to traverse",
+            "(of time) to elapse; to pass; to go by",
+            "to pass; to spend (one's time)",
+            "to celebrate (a holiday)",
+            "(of rain) to pass; to end; to stop",
+            "to undergo; to treat with (something)",
+            "to enter (one's perception or thoughts)",
+            "to exceed; to surpass; to go over",
+            "(of alcohol) to go flat",
+            "(euphemistic) to pass away"
+        ]
+    },
+    {
+        "pos": "particle",
+        "word": "gvaq",
+        "sound": "/kʷa˧˥/",
+        "meaning": [
+            "Used after a verb to indicate that the verb's action has the effect of moving across something: across; over",
+            "Used after a verb to indicate that the verb's action is completed: already",
+            "Used after a verb to indicate that the verb's action or circumstance has occurred: already; before",
+            "Used after an adjective to indicate a comparison: more ... than",
+            "Used after a verb to indicate that the verb's action is enough to match or exceed the object"
+        ]
+    },
+    {
+        "pos": "adv",
+        "word": "gajlaeng",
+        "sound": "/ka˥ laŋ˨˦/",
+        "meaning": [
+            "(dialectal) then; afterwards; later"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "goujcau",
+        "sound": "/kou˥ ɕaːu˧˥/",
+        "meaning": [
+            "surgical mask"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "goujyanghdangz",
+        "sound": "/kou˥ jaːŋ˧ taːŋ˧˩/",
+        "meaning": [
+            "chewing gum"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "nyauj",
+        "sound": "/ɲaːu˥/",
+        "meaning": [
+            "claw; paw"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "nyauj",
+        "sound": "/ɲaːu˥/",
+        "meaning": [
+            "to claw; to scratch with claws or fingernails"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gauhgiz cunghyoz",
+        "sound": "/kaːu˧ ki˧˩ ɕuŋ˧ jo˧˩/",
+        "meaning": [
+            "senior high school (including both junior high school and senior high school)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ngazcat",
+        "sound": "/ŋa˧˩ ɕaːt˧˥/",
+        "meaning": [
+            "toothbrush"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ngoenzcog",
+        "sound": "/ŋon˧˩ ɕoːk˧/",
+        "meaning": [
+            "tomorrow"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ngoenzlwenz",
+        "sound": "/ŋon˧˩ lɯːn˧˩/",
+        "meaning": [
+            "yesterday"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "doengxhaet",
+        "sound": "/toŋ˦˨ hat˥/",
+        "meaning": [
+            "morning"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gyanghaemh",
+        "sound": "/kʲaːŋ˨˦ ham˧/",
+        "meaning": [
+            "evening; night"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gyanghwnz",
+        "sound": "/kʲaːŋ˨˦ hɯn˧˩/",
+        "meaning": [
+            "late at night; the middle of the night"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "doengxngoenz",
+        "sound": "/toŋ˦˨ ŋon˧˩/",
+        "meaning": [
+            "daytime; day"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gyangngoenz",
+        "sound": "/kʲaːŋ˨˦ ŋon˧˩/",
+        "meaning": [
+            "daytime; day",
+            "(dialectal, including Wuming) noon",
+            "(dialectal) sun"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "banringz",
+        "sound": "/paːn˨˦ ɣiŋ˧˩/",
+        "meaning": [
+            "noon; midday"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "doengxhaemh",
+        "sound": "/toŋ˦˨ ham˧/",
+        "meaning": [
+            "evening; night"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "gauhgiz",
+        "sound": "/kaːu˧ ki˧˩/",
+        "meaning": [
+            "high-grade; high-class; advanced; senior"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "doengxhwnz",
+        "sound": "/toŋ˦˨ hɯn˧˩/",
+        "meaning": [
+            "(dialectal) the middle of the night; late at night"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "simhai",
+        "sound": "/θim˨˦ haːi˨˦/",
+        "meaning": [
+            "happy"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yiuhrumz",
+        "sound": "/jiu˧ ɣum˧˩/",
+        "meaning": [
+            "kite (lightweight toy)"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "duzyiuh",
+        "sound": "/tu˧˩ jiu˧/",
+        "meaning": [
+            "Eurasian sparrowhawk"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "duznou",
+        "sound": "/tu˧˩ nou˨˦/",
+        "meaning": [
+            "mouse; rat"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yiuh",
+        "sound": "/jiu˧/",
+        "meaning": [
+            "Eurasian sparrowhawk"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "binghsiengh",
+        "sound": "/piŋ˧ θiːŋ˧/",
+        "meaning": [
+            "refrigerator"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yiengh",
+        "sound": "/jiːŋ˧/",
+        "meaning": [
+            "appearance; look (of a person)",
+            "looks of things",
+            "design; style",
+            "sample; specimen",
+            "example; role model"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "yiengh",
+        "sound": "/jiːŋ˧/",
+        "meaning": [
+            "kind of; sort of; type of"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "romh",
+        "sound": "/ɣoːm˧/",
+        "meaning": [
+            "eagle; hawk"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "romh",
+        "sound": "/ɣoːm˧/",
+        "meaning": [
+            "early morning"
+        ]
+    },
+    {
+        "pos": "adv",
+        "word": "romh",
+        "sound": "/ɣoːm˧/",
+        "meaning": [
+            "early"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ciengz",
+        "sound": "/ɕiːŋ˧˩/",
+        "meaning": [
+            "wall"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "ciengz",
+        "sound": "/ɕiːŋ˧˩/",
+        "meaning": [
+            "Used for the occurrence of events."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "liggaeuq",
+        "sound": "/lik˧ kau˧˥/",
+        "meaning": [
+            "lunar calendar; Chinese calendar"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "daiq",
+        "sound": "/taːi˧˥/",
+        "meaning": [
+            "maternal grandmother",
+            "mother-in-law; wife's mother"
+        ]
+    },
+    {
+        "pos": "adv",
+        "word": "daiq",
+        "sound": "/taːi˧˥/",
+        "meaning": [
+            "too; excessively"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "daiq",
+        "sound": "/taːi˧˥/",
+        "meaning": [
+            "to bring; to take with",
+            "to command; to lead",
+            "to lead; to guide; to show the way",
+            "to babysit; to take care of",
+            "to host; to entertain"
+        ]
+    },
+    {
+        "pos": "conj",
+        "word": "daiq",
+        "sound": "/taːi˧˥/",
+        "meaning": [
+            "along with"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "raq",
+        "sound": "/ɣa˧˥/",
+        "meaning": [
+            "communicable disease; pestilence; plague"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "raq",
+        "sound": "/ɣa˧˥/",
+        "meaning": [
+            "to contract a communicable disease; to be diseased"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "raq",
+        "sound": "/ɣa˧˥/",
+        "meaning": [
+            "Used for occurrences of an event that is usually violent or dangerous."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "raq",
+        "sound": "/ɣa˧˥/",
+        "meaning": [
+            "a little while; a moment; a second"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "raq",
+        "sound": "/ɣa˧˥/",
+        "meaning": [
+            "(dialectal) Used for groups of people or animals: group of; flock of"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "rongzgyau",
+        "sound": "/ɣoːŋ˧˩ kʲaːu˨˦/",
+        "meaning": [
+            "spider's nest",
+            "spiderweb"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lwgraz",
+        "sound": "/lɯk˧ ɣa˧˩/",
+        "meaning": [
+            "sesame"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "rongz",
+        "sound": "/ɣoːŋ˧˩/",
+        "meaning": [
+            "nest; hive; den",
+            "hideout; den; lair (of a criminal)"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "rongz",
+        "sound": "/ɣoːŋ˧˩/",
+        "meaning": [
+            "nest of; hive of; den of"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "namz",
+        "sound": "/naːm˧˩/",
+        "meaning": [
+            "south"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "baek",
+        "sound": "/pak˥/",
+        "meaning": [
+            "north"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "baek",
+        "sound": "/pak˥/",
+        "meaning": [
+            "to stew; to decoct; to cook slowly in an earthen pot"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "fouj",
+        "sound": "/fou˥/",
+        "meaning": [
+            "axe"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gvak",
+        "sound": "/kʷaːk˧˥/",
+        "meaning": [
+            "hoe"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gvak",
+        "sound": "/kʷaːk˧˥/",
+        "meaning": [
+            "to hoe; to till land with a hoe"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "dangzrwi",
+        "sound": "/taːŋ˧˩ ɣɯːi˨˦/",
+        "meaning": [
+            "honey"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "loeghozraez",
+        "sound": "/lok˧ ho˧˩ ɣai˧˩/",
+        "meaning": [
+            "giraffe"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "fazyen",
+        "sound": "/fa˧˩ jeːn˧˥/",
+        "meaning": [
+            "(law) court; court of law; tribunal"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "leixseih",
+        "sound": "/lei˦˨ θei˧/",
+        "meaning": [
+            "red envelope; red packet"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gisongih",
+        "sound": "/ki˨˦ θoːn˨˦ ki˧/",
+        "meaning": [
+            "computer"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gyahyouzcan",
+        "sound": "/kʲa˧ jou˧˩ ɕaːn˨˦/",
+        "meaning": [
+            "filling station; gas station; petrol station; service station"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gve",
+        "sound": "/kʷe˨˦/",
+        "meaning": [
+            "gourd; melon",
+            "(specifically) loofah"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "sihgvah",
+        "sound": "/θi˧ kʷa˧/",
+        "meaning": [
+            "watermelon"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "fungbau",
+        "sound": "/fuŋ˨˦ paːu˨˦/",
+        "meaning": [
+            "red envelope; red packet"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "beksingq",
+        "sound": "/peːk˧˥ θiŋ˧˥/",
+        "meaning": [
+            "the common people"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "aiswhbing",
+        "sound": "/ʔaːi˧˥ θɯ˧ piŋ˧˥/",
+        "meaning": [
+            "AIDS"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "bingh'aiswhbing",
+        "sound": "/piŋ˧ ʔaːi˧˥ θɯ˧ piŋ˧˥/",
+        "meaning": [
+            "AIDS"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "mabag",
+        "sound": "/ma˨˦ paːk˧/",
+        "meaning": [
+            "mad dog"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "binghmabag",
+        "sound": "/piŋ˧ ma˨˦ paːk˧/",
+        "meaning": [
+            "rabies"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "madwknyaen",
+        "sound": "/ma˨˦ tɯk˥ ɲan˨˦/",
+        "meaning": [
+            "hunting dog"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "dwknyaen",
+        "sound": "/tɯk˥ ɲan˨˦/",
+        "meaning": [
+            "(intransitive) to hunt"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "bingh",
+        "sound": "/piŋ˧/",
+        "meaning": [
+            "disease; illness"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "bingh",
+        "sound": "/piŋ˧/",
+        "meaning": [
+            "to be ill"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "dwk",
+        "sound": "/tɯk˥/",
+        "meaning": [
+            "to hit; to strike",
+            "to chop (wood)",
+            "to hunt; to catch",
+            "(of insects) to bite (plants)",
+            "to ignite; to light (a fire)",
+            "to shoot (a gun, an arrow, etc.)",
+            "to play (a game)",
+            "to exorcise; to drive out (an evil spirit)",
+            "to put; to apply",
+            "to arrange; to set",
+            "to spread (fertilizer)",
+            "to irrigate",
+            "to feed"
+        ]
+    },
+    {
+        "pos": "particle",
+        "word": "dwk",
+        "sound": "/tɯk˥/",
+        "meaning": [
+            "Links a predicate to a complement.",
+            "Indicates an ongoing action or state."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "bazsiujsiz gunghcozci",
+        "sound": "/pa˧˩ θiu˥ θi˧˩ kuŋ˧ ɕo˧˩ ɕi˧˥/",
+        "meaning": [
+            "eight-hour working day"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "aen gyacizgvanh cehsim sevei cujyi",
+        "sound": "/ʔan˨˦ kʲa˨˦ ɕi˧˩ kʷaːn˧ ɕe˧ θim˨˦ θe˨˦ βei˨˦ ɕu˥ ji˨˦/",
+        "meaning": [
+            "Core Socialist Values"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "banfunghgen bancizminzdi sevei",
+        "sound": "/paːn˧˥ fuŋ˧ keːn˧˥ paːn˧˥ ɕi˧˩ min˧˩ ti˧˥ θe˧˥ βei˧˥/",
+        "meaning": [
+            "self-colony"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "bwtbingh binghdoeg gvanhcang yienghmoq",
+        "sound": "/pɯt˥ piŋ˧ piŋ˧ tok˧ kʷaːn˧ ɕaːŋ˨˦ jiːŋ˧ mo˧˥/",
+        "meaning": [
+            "COVID-19"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ngieg",
+        "sound": "/ŋiːk˧/",
+        "meaning": [
+            "jiaolong"
+        ]
+    },
+    {
+        "pos": "det",
+        "word": "haenx",
+        "sound": "/han˦˨/",
+        "meaning": [
+            "that; those"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gizneix",
+        "sound": "/ki˧˩ nei˦˨/",
+        "meaning": [
+            "here; over here"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gizhaenx",
+        "sound": "/ki˧˩ han˦˨/",
+        "meaning": [
+            "there; over there"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lawz",
+        "sound": "/laɯ˧˩/",
+        "meaning": [
+            "donkey"
+        ]
+    },
+    {
+        "pos": "det",
+        "word": "lawz",
+        "sound": "/laɯ˧˩/",
+        "meaning": [
+            "which; what",
+            "whichever; whatever",
+            "any"
+        ]
+    },
+    {
+        "pos": "pron",
+        "word": "lawz",
+        "sound": "/laɯ˧˩/",
+        "meaning": [
+            "where"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "lawh",
+        "sound": "/laɯ˧/",
+        "meaning": [
+            "oily; greasy"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "lawh",
+        "sound": "/laɯ˧/",
+        "meaning": [
+            "to substitute for; to stand in for"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "leq",
+        "sound": "/le˧˥/",
+        "meaning": [
+            "great-great-grandchild"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "leq",
+        "sound": "/le˧˥/",
+        "meaning": [
+            "scapula; shoulder blade"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "leq",
+        "sound": "/le˧˥/",
+        "meaning": [
+            "rice scooper; rice paddle"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "lexhe",
+        "sound": "/le˦˨ he˨˦/",
+        "meaning": [
+            "to joke; to pull a prank"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lexhe",
+        "sound": "/le˦˨ he˨˦/",
+        "meaning": [
+            "trifle; trivial matter"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ngeihyienz",
+        "sound": "/ŋei˧ jiːn˧˩/",
+        "meaning": [
+            "erhu; erxian"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "ngawz",
+        "sound": "/ŋaɯ˧˩/",
+        "meaning": [
+            "to hope; to look forward to"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "ngawz",
+        "sound": "/ŋaɯ˧˩/",
+        "meaning": [
+            "foolish; stupid"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "conghrwz",
+        "sound": "/ɕoːŋ˧ ɣɯ˧˩/",
+        "meaning": [
+            "earhole; ear canal"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Bouxhek",
+        "sound": "/pou˦˨ heːk˧˥/",
+        "meaning": [
+            "(dialectal, including Wuming) Han Chinese"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "bouxhek",
+        "sound": "/pou˦˨ heːk˧˥/",
+        "meaning": [
+            "guest"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "congzrok",
+        "sound": "/ɕoːŋ˧˩ ɣoːk˧˥/",
+        "meaning": [
+            "traditional handloom"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "conghhaex",
+        "sound": "/ɕoːŋ˧ hai˦˨/",
+        "meaning": [
+            "anus"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "vahdoj",
+        "sound": "/βa˧ to˥/",
+        "meaning": [
+            "local dialect; vernacular (usually referring to Zhuang)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Bouxdoj",
+        "sound": "/pou˦˨ to˥/",
+        "meaning": [
+            "(dialectal) the Zhuang people"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "neux",
+        "sound": "/neːu˦˨/",
+        "meaning": [
+            "weak"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "diemq",
+        "sound": "/tiːm˧˥/",
+        "meaning": [
+            "store; shop"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "doxdax",
+        "sound": "/to˦˨ ta˦˨/",
+        "meaning": [
+            "competition; contest"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "fungh",
+        "sound": "/fuŋ˧/",
+        "meaning": [
+            "(Chinese mythology) fenghuang (a mythological bird)"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Bouxmiuz",
+        "sound": "/pou˦˨ miu˧˩/",
+        "meaning": [
+            "the Miao people"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "guekcoj",
+        "sound": "/kuːk˧˥ ɕo˥/",
+        "meaning": [
+            "motherland"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yinzminz-veijyenzvei",
+        "sound": "/jin˧˩ min˧˩ βei˥ jeːn˧˩ βei˧˥/",
+        "meaning": [
+            "people's committee"
+        ]
+    },
+    {
+        "pos": "conj",
+        "word": "vih",
+        "sound": "/βi˧/",
+        "meaning": [
+            "for"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "gaijfang",
+        "sound": "/kaːi˥ faːŋ˧˥/",
+        "meaning": [
+            "to liberate"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "buzdauzdangz",
+        "sound": "/pu˧˩ taːu˧˩ taːŋ˧˩/",
+        "meaning": [
+            "(biochemistry) glucose"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Fuzgyau",
+        "sound": "/fu˧˩ kʲaːu˧˥/",
+        "meaning": [
+            "Buddhism"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Yihswhlanzgyau",
+        "sound": "/ji˧ θɯ˧ laːn˧˩ kʲaːu˧˥/",
+        "meaning": [
+            "Islam"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Yihlangj",
+        "sound": "/ji˧ laːŋ˥/",
+        "meaning": [
+            "Iran (a country in Asia)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "hoiz",
+        "sound": "/hoːi˧˩/",
+        "meaning": [
+            "to loosen; to untie; to undo",
+            "to translate",
+            "to answer; to reply",
+            "to shift; to turn; to become",
+            "to restore"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "wyangjvadan",
+        "sound": "/ʔɯ˧˥ jaːŋ˥ βa˧˥ taːn˧˥/",
+        "meaning": [
+            "(inorganic chemistry) carbon dioxide"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Yihlahgwz",
+        "sound": "/ji˧ la˧ kɯ˧˩/",
+        "meaning": [
+            "Iraq (a country in Asia)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "aeu",
+        "sound": "/ʔau˨˦/",
+        "meaning": [
+            "to take; to fetch",
+            "to get; to own",
+            "to want; to desire (something)",
+            "to want (someone to do something)",
+            "(of a man) to marry (a woman); to take as a wife",
+            "to mate; to breed",
+            "to use (something for a purpose)",
+            "to have to; should"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yizcingz",
+        "sound": "/ji˧˩ ɕiŋ˧˩/",
+        "meaning": [
+            "situation of an epidemic"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yizmyauz",
+        "sound": "/ji˧˩ mʲaːu˧˩/",
+        "meaning": [
+            "vaccine"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gatsat",
+        "sound": "/kaːt˧˥ θaːt˧˥/",
+        "meaning": [
+            "the last"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "mehmbwk",
+        "sound": "/me˧ ɓɯk˥/",
+        "meaning": [
+            "woman; female",
+            "wife"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "dajdoeng",
+        "sound": "/ta˥ toŋ˨˦/",
+        "meaning": [
+            "to open up; to open access"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ngaeux",
+        "sound": "/ŋau˦˨/",
+        "meaning": [
+            "lotus (plant)",
+            "lotus root"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yijmauzgiuz",
+        "sound": "/ji˥ maːu˧˩ kiu˧˩/",
+        "meaning": [
+            "badminton (racquet sport)",
+            "shuttlecock; birdie"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "geizciengh",
+        "sound": "/kei˧˩ ɕiːŋ˧/",
+        "meaning": [
+            "xiangqi; Chinese chess"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "geizdiuq",
+        "sound": "/kei˧˩ tiu˧˥/",
+        "meaning": [
+            "Chinese checkers"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Bouxdaez",
+        "sound": "/pou˦˨ tai˧˩/",
+        "meaning": [
+            "the Thai people"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cienz",
+        "sound": "/ɕiːn˧˩/",
+        "meaning": [
+            "copper coin",
+            "money",
+            "cost; expense"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "cienz",
+        "sound": "/ɕiːn˧˩/",
+        "meaning": [
+            "mace; qian (unit of mass equivalent to 5 grams)"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "cienz",
+        "sound": "/ɕiːn˧˩/",
+        "meaning": [
+            "(transitive) to send; to deliver",
+            "(transitive) to pass on (a skill)",
+            "(intransitive) to circulate; to become widely known",
+            "(transitive) to hand down"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "roegyaemyieng",
+        "sound": "/ɣok˧ jam˨˦ jiːŋ˨˦/",
+        "meaning": [
+            "mandarin duck"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gingoz",
+        "sound": "/ki˧˥ ŋo˧˩/",
+        "meaning": [
+            "penguin"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "cwngzcizdanh",
+        "sound": "/ɕɯŋ˧˩ ɕi˧˩ taːn˧/",
+        "meaning": [
+            "report card; academic transcript"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gizdah",
+        "sound": "/ki˧˩ ta˧/",
+        "meaning": [
+            "guitar"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gihgiyinz",
+        "sound": "/ki˧ ki˧˥ jin˧˩/",
+        "meaning": [
+            "robot"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "Gangjbi",
+        "sound": "/kaːŋ˥ pi˧˥/",
+        "meaning": [
+            "Hong Kong dollar"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ngoenzsinghgiz",
+        "sound": "/ŋon˧˩ θiŋ˧ ki˧˩/",
+        "meaning": [
+            "Sunday"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ngoenzlijbai",
+        "sound": "/ŋon˧˩ li˥ paːi˧˥/",
+        "meaning": [
+            "Sunday"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "singhgizsam",
+        "sound": "/θiŋ˧ ki˧˩ θaːm˨˦/",
+        "meaning": [
+            "Wednesday"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "singhgizhaj",
+        "sound": "/θiŋ˧ ki˧˩ ha˥/",
+        "meaning": [
+            "Friday"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "singhgiz",
+        "sound": "/θiŋ˧ ki˧˩/",
+        "meaning": [
+            "week",
+            "Sunday"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "singhgizroek",
+        "sound": "/θiŋ˧ ki˧˩ ɣok˥/",
+        "meaning": [
+            "Saturday"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Liengz",
+        "sound": "/liːŋ˧˩/",
+        "meaning": [
+            "A surname​."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "singhgizngeih",
+        "sound": "/θiŋ˧ ki˧˩ ŋei˧/",
+        "meaning": [
+            "Tuesday"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "liengzhaiz",
+        "sound": "/liːŋ˧˩ haːi˧˩/",
+        "meaning": [
+            "sandal"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "singhgizseiq",
+        "sound": "/θiŋ˧ ki˧˩ θei˧˥/",
+        "meaning": [
+            "Thursday"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "singhgizit",
+        "sound": "/θiŋ˧ ki˧˩ ʔit˥/",
+        "meaning": [
+            "Monday"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lizswh",
+        "sound": "/li˧˩ θɯ˧/",
+        "meaning": [
+            "lawyer"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "yijyenzyoz",
+        "sound": "/ji˥ jeːn˧˩ jo˧˩/",
+        "meaning": [
+            "linguistics"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gangdij",
+        "sound": "/kaːŋ˧˥ ti˥/",
+        "meaning": [
+            "antibody"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "gangyenz",
+        "sound": "/kaːŋ˧˥ jeːn˧˩/",
+        "meaning": [
+            "antigen"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lwggyax",
+        "sound": "/lɯk˧ kʲa˦˨/",
+        "meaning": [
+            "orphan"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "henj",
+        "sound": "/heːn˥/",
+        "meaning": [
+            "yellow",
+            "(of fruits or grains that are yellow when ripe) ripe"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "byaekginghbwz",
+        "sound": "/pʲak˥ kiŋ˧ pɯ˧˩/",
+        "meaning": [
+            "napa cabbage"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Nungz",
+        "sound": "/nuŋ˧˩/",
+        "meaning": [
+            "A surname​."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "rungh",
+        "sound": "/ɣuŋ˧/",
+        "meaning": [
+            "level land between mountains"
+        ]
+    },
+    {
+        "pos": "name",
+        "word": "Cimz",
+        "sound": "/ɕim˧˩/",
+        "meaning": [
+            "A surname​."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "baengz",
+        "sound": "/paŋ˧˩/",
+        "meaning": [
+            "cloth"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ndoi",
+        "sound": "/ɗoːi˨˦/",
+        "meaning": [
+            "earthen hill or mountain"
+        ]
+    },
+    {
+        "pos": "adj",
+        "word": "lamz",
+        "sound": "/laːm˧˩/",
+        "meaning": [
+            "blue"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "lamz",
+        "sound": "/laːm˧˩/",
+        "meaning": [
+            "small basket of relatively tight weave"
+        ]
+    },
+    {
+        "pos": "classifier",
+        "word": "lamz",
+        "sound": "/laːm˧˩/",
+        "meaning": [
+            "Classifier for amounts that can be held in a small basket."
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "ahswhbizlinz",
+        "sound": "/ʔa˧ θɯ˧ pi˧˩ lin˧˩/",
+        "meaning": [
+            "(organic chemistry, pharmacology) aspirin"
+        ]
+    },
+    {
+        "pos": "verb",
+        "word": "rongx",
+        "sound": "/ɣoːŋ˦˨/",
+        "meaning": [
+            "to howl; to roar; to shout"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "langx",
+        "sound": "/laːŋ˦˨/",
+        "meaning": [
+            "swamp; wetland"
+        ]
+    },
+    {
+        "pos": "noun",
+        "word": "diegmoh",
+        "sound": "/tiːk˧ mo˧/",
+        "meaning": [
+            "cemetery; graveyard; necropolis"
+        ]
+    }
+]
