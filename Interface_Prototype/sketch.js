@@ -43,6 +43,7 @@ let zhuang = {
 let c = "black";
 let C = "black";
 
+
 function setup() {
   createCanvas(windowWidth, windowHeight);
   background(180);
@@ -118,11 +119,14 @@ function draw() {
     mouseY > height / 2 - 150 &&
     mouseY < height / 2 + 150
   ) {
+    fill(255);
+     stroke(0);
+     rect(width / 3, height / 2 + 125, 300, 200);
     c = "red";
     C = "black";
     textSize(12);
     noStroke();
-    fill(20);
+    fill(0);
     text("Character: " + Chr2.character, width / 3 - 140, height / 2 + 50);
     text("Definition: " + Chr2.definition, width / 3 - 140, height / 2 + 70);
     text("Pinyin: " + Chr2.pinyin, width / 3 - 140, height / 2 + 90);
@@ -132,11 +136,16 @@ function draw() {
     mouseY > height / 2 - 150 &&
     mouseY < height / 2 + 150
   ) {
+    fill(255);
+     stroke(0);
+     rect(width / 3, height / 2 + 125, 300, 200);
     C = "red";
     c = "black";
+    textColor = 100;
+    textFill = 0;
     textSize(12);
     noStroke();
-    fill(20);
+    fill(0);
     text("Character: " + Chr1.character, width / 3 - 140, height / 2 + 50);
     text("Definition: " + Chr1.definition, width / 3 - 140, height / 2 + 70);
     text("Pinyin: " + Chr1.pinyin, width / 3 - 140, height / 2 + 90);
