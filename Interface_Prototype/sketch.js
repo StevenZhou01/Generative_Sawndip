@@ -55,29 +55,29 @@ function setup() {
 function displayInfo() {
   fill(60, 60, 70);
   stroke(0);
-  rect(width / 3, height / 2 - 250, 300, 50);
+  rect(width / 3, height / 2 - 225, 300, 50);
   fill(100);
   stroke(0);
-  rect(width / 3, height / 2 - 150, 300, 150);
+  rect(width / 3, height / 2 - 125, 300, 150);
   textSize(20);
-  text("Generative Sawndip", width / 3 - 140, height / 2 - 245);
+  text("Generative Sawndip", width / 3 - 140, height / 2 - 225);
   textSize(12);
   noStroke();
   fill(20);
-  text("Word: " + zhuang.word, width / 3 - 140, height / 2 - 200);
-  text("Definition: " + zhuang.meaning, width / 3, height / 2 - 160, 280, 50);
-  text("Part-of-speech: " + zhuang.pos, width / 3 - 140, height / 2 - 140);
-  text("Pronunciation: " + zhuang.sound, width / 3 - 140, height / 2 - 120);
-  text("Decomposition: " + "⿰ U+2FF0", width / 3 - 140, height / 2 - 100);
+  text("Word: " + zhuang.word, width / 3 - 140, height / 2 - 175);
+  text("Definition: " + zhuang.meaning, width / 3, height / 2 - 150, 280, 30);
+  text("Part-of-speech: " + zhuang.pos, width / 3 - 140, height / 2 - 120);
+  text("Pronunciation: " + zhuang.sound, width / 3 - 140, height / 2 - 100);
+  text("Decomposition: " + "⿰ U+2FF0", width / 3 - 140, height / 2 - 80);
 
   fill(60, 60, 70);
   stroke(0);
-  rect(width / 3, height / 2, 300, 50);
+  rect(width / 3, height / 2 + 25, 300, 50);
   fill(100);
   stroke(0);
-  rect(width / 3, height / 2 + 125, 300, 200);
+  rect(width / 3, height / 2 + 125, 300, 150);
   textSize(20);
-  text("Chinese Character", width / 3 - 140, height / 2 + 5);
+  text("Chinese Character", width / 3 - 140, height / 2 + 30);
 }
 
 function displayCharacter() {
@@ -121,15 +121,15 @@ function draw() {
   ) {
     fill(255);
      stroke(0);
-     rect(width / 3, height / 2 + 125, 300, 200);
+     rect(width / 3, height / 2 + 125, 300, 150);
     c = "red";
     C = "black";
     textSize(12);
     noStroke();
     fill(0);
-    text("Character: " + Chr2.character, width / 3 - 140, height / 2 + 50);
-    text("Definition: " + Chr2.definition, width / 3 - 140, height / 2 + 70);
-    text("Pinyin: " + Chr2.pinyin, width / 3 - 140, height / 2 + 90);
+    text("Character: " + Chr2.character, width / 3 - 140, height / 2 + 80);
+    text("Definition: " + Chr2.definition, width / 3 - 140, height / 2 + 100);
+    text("Pinyin: " + Chr2.pinyin, width / 3 - 140, height / 2 + 120);
   } else if (
     mouseX > (width * 2) / 3 &&
     mouseX < (width * 2) / 3 + 150 &&
@@ -138,7 +138,7 @@ function draw() {
   ) {
     fill(255);
      stroke(0);
-     rect(width / 3, height / 2 + 125, 300, 200);
+    rect(width / 3, height / 2 + 125, 300, 150);
     C = "red";
     c = "black";
     textColor = 100;
@@ -146,16 +146,17 @@ function draw() {
     textSize(12);
     noStroke();
     fill(0);
-    text("Character: " + Chr1.character, width / 3 - 140, height / 2 + 50);
-    text("Definition: " + Chr1.definition, width / 3 - 140, height / 2 + 70);
-    text("Pinyin: " + Chr1.pinyin, width / 3 - 140, height / 2 + 90);
+    text("Character: " + Chr1.character, width / 3 - 140, height / 2 + 80);
+    text("Definition: " + Chr1.definition, width / 3 - 140, height / 2 + 100);
+    text("Pinyin: " + Chr1.pinyin, width / 3 - 140, height / 2 + 120);
   } else  {
     C = "black";
     c = "black";
      fill(255);
      stroke(0);
-     rect(width / 3, height / 2 + 125, 300, 200);
+     rect(width / 3, height / 2 + 125, 300, 150);
   }
 
   displayCharacter();
 }
+
