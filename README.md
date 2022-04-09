@@ -1,2 +1,2 @@
-# Sawndip
+# Generative Sawndip
 Graduation Project
