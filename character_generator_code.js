@@ -23,7 +23,7 @@ let components = [
 "⺗","手","⺙","⺜","⺡","⺢","⺣","⺤","⺥","⺦","⺧","犭",
 "⺩","⺪","⺫","⺬","⺭","⺮","⺯","⺰","⺱","⺲","⺳","⺵",
 "⺶","⺷","⺹","⺺","⺻","⺼","⺾","⺿","⻀","⻂","⻃","⻈",
-"⻊","⻌","⻍","⻎","⻏","⻐","⻕","⻖","⻗","⻞","⻟","⻠"
+"⻊","⻌","⻍","⻎","⻏","⻐","⻕","⻖","⻗","⻞","⻟","⻠","扌"
 ];//"⺅" and "亻" are different, "亻" is used here. Please make sure the one you used in in this list. 
 
 // special components : ["⼌","⼐","⼓","⼕","⼖","囗","⼵","⽧","⾌","⺄","⺇","⻌","⻍","⻎", "⼚","⼫","⼴","⾨","⾾","⻔"]; 
@@ -200,7 +200,7 @@ if (rule == 1||rule == 2||rule == 6){
   
   push();
   translate(100, 370);
-  if(chr01.character == "⼎"||chr01.character == "⼻"||chr01.character =="亻"||chr01.character =="忄"||chr01.character =="⺡"||chr01.character =="⺦"||chr01.character =="犭"||chr01.character =="⺩"||chr01.character =="⺪"||chr01.character =="⺬"||chr01.character =="⺭"||chr01.character =="⺯"||chr01.character =="⺰"||chr01.character =="⻂"||chr01.character =="⻈"||chr01.character =="⻐"||chr01.character =="⻕"||chr01.character =="⻖"||chr01.character =="⻞"||chr01.character =="⻟"||chr01.character =="⻠"){
+  if(chr01.character == "扌"||chr01.character == "⼎"||chr01.character == "⼻"||chr01.character =="亻"||chr01.character =="忄"||chr01.character =="⺡"||chr01.character =="⺦"||chr01.character =="犭"||chr01.character =="⺩"||chr01.character =="⺪"||chr01.character =="⺬"||chr01.character =="⺭"||chr01.character =="⺯"||chr01.character =="⺰"||chr01.character =="⻂"||chr01.character =="⻈"||chr01.character =="⻐"||chr01.character =="⻕"||chr01.character =="⻖"||chr01.character =="⻞"||chr01.character =="⻟"||chr01.character =="⻠"){
   push();
   scale(0.2, -0.3);
   translate(-100, 0);
