@@ -99,7 +99,7 @@ function setup() {
           regex[j] = random(["f"]);
         } else if (ipa[j] == "t" || ipa[j] == "ɗ") {
           regex[j] = random(["t", "d"]);
-        } else if ((ipa[j] == "n", ipa[j] == "ŋ", ipa[j] == "ɲ")) {
+        } else if (ipa[j] == "n"|| ipa[j] == "ŋ"|| ipa[j] == "ɲ") {
           regex[j] = random(["n"]);
         } else if (ipa[j] == "l") {
           regex[j] = random(["l"]);
@@ -525,7 +525,7 @@ function mouseClicked(){
           regex[j] = random(["f"]);
         } else if (ipa[j] == "t" || ipa[j] == "ɗ") {
           regex[j] = random(["t", "d"]);
-        } else if ((ipa[j] == "n", ipa[j] == "ŋ", ipa[j] == "ɲ")) {
+        } else if (ipa[j] == "n"|| ipa[j] == "ŋ"|| ipa[j] == "ɲ") {
           regex[j] = random(["n"]);
         } else if (ipa[j] == "l") {
           regex[j] = random(["l"]);
