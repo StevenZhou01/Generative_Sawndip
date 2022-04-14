@@ -168,14 +168,14 @@ function draw(){
   background(255);
   rectMode(CENTER);
   stroke(0,50);
-  rect(width / 2, height / 2, 300, 300);
-  line(
-    width / 2,
-    height / 2 - 150,
-    width / 2,
-    height / 2 + 150
-  );
-  line(width / 2 - 300 / 2, height / 2, width / 2 + 300 / 2, height / 2);
+  //rect(width / 2, height / 2, 300, 300);
+  //line(
+ //   width / 2,
+//    height / 2 - 150,
+//    width / 2,
+//    height / 2 + 150
+//  );
+ // line(width / 2 - 300 / 2, height / 2, width / 2 + 300 / 2, height / 2);
   
 let chrA;
 let chrB;
@@ -551,7 +551,7 @@ function mouseClicked(){
         }
       }
       console.log("Selected pinyin alphabets: ", regex);
-      let characters = chinese.characters;
+ let characters = chinese.characters;
       let selected = [];
       for (let k = 0; k < regex.length; k++) {
         let selectedChr = characters.filter((chr) => {
@@ -562,7 +562,7 @@ function mouseClicked(){
             return chr;
           }
         });
-        selected[k] = random(selectedChr); // randomly choose 20 characters
+        selected[k] = random(selectedChr);
       }
       if (rule == 6) {
         chr1 = selected[0].character;
